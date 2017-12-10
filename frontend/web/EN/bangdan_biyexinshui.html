@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+		<title>collegenode</title>
+
+		<!-- Bootstrap -->
+		<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+     
+    <![endif]-->
+	</head>
+
+	<body>
+		<nav class="navbar navbar-default navbar-collegenode" role="navigation">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collegenode-collapse">
+					<span class="sr-only">Toggle navigation</span> 
+					<span class="icon-bar"></span> 
+					<span class="icon-bar"></span> 
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="index.html"><img src="img/logo.png"></a>
+			</div>
+			<div class="collapse navbar-collapse navbar-collegenode-collapse">
+				<ul class="nav navbar-nav navbar-right">
+					<li>
+						<a href="index.html" class="nav-menu"><small>Home</small></a>
+					</li>
+					<li>
+						<a href="bangdan_meiguo.html" class="nav-menu"><small>CollegeNode Rankings</small></a>
+					</li>
+					<li class="dropdown">
+						<a id="dLabel" class="nav-menu" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							<small>CollegeNode English</small>
+							<span class="caret"></span>
+						</a>
+						<ul class="dropdown-menu" aria-labelledby="dLabel">
+							<li>
+								<a href="http://collegenode.cn/product.html" class="color-blue">Panama</a>
+							</li>
+							<li>
+								<a href="/SPANISH/index.html" class="color-blue">CollegeNode Spanish</a>
+							</li>
+						</ul>
+					</li>
+					<!--<li>
+						<a href="mingxiao-dongtai.html" class="nav-menu"><small>名校动态</small></a>
+					</li>-->
+					<li>
+						<a href="about.html" class="nav-menu"><small>About us</small></a>
+					</li>
+					<!--<li>
+						<a class="btn" href="#" style="border: 1px solid #FFFFFF; padding: 5px 20px; border-radius: 25px; margin-top: 15px; margin-left: 30px; margin-right: 15px;">
+							<small>简体中文</small>		
+							<span class="caret"></span>
+						</a>
+					</li>-->
+				</ul>
+			</div>
+		</nav>
+		<div class="main-header sub-header">
+			<div class="container">
+				<div class="text-center">
+					<h1 style="font-size: 38px;">CollegeNode Rankings</h1>
+					<h3>Your Guide to Studying in the USA</h3>
+					<a href="bangdan_meiguo.html" class="btn btn-default m-t-10">Best High Schools in the US</a>
+					<a href="bangdan_biyexinshui.html" class="btn btn-default m-t-10">Colleges With Highest Salaries After Graduation</a>
+					<a href="bangdan_boshi.html" class="btn btn-default m-t-10">Top Ph.D Feeder Colleges</a>
+				</div>
+			</div>
+		</div>
+		<!--<div class="container">
+			<div class="bangdan-menu">
+				<h4>排名计算方式</h4>
+				<p>联校网和美国60多个大学的招生办合作，综合了招生办录取学生多年的数据。排名综合积分是根据高中前一年送往前30大学的学生总人数，成功录取比率，还有学校毕业班学生数量来计算的。高排名美国大学录取的中国学生在综合积分里的比重高于低排名的美国大学。</p>
+				<button class="btn btn-danger m-t-10" onclick="window.open('mizhigen.html')">密支根大学 top20 高中排名</button> <button class="btn btn-danger m-t-10" onclick="window.open('weisikangxing.html')">威斯康星大学 top20 高中排名</button>
+			</div>
+		</div>-->
+		<!--<div class="container">
+			<div class="bangdan-menu">
+				<div class="row">
+					<div class="col-lg-1 color-gray p-l-10 p-r-10">
+						榜单导航
+					</div>
+					<div class="col-lg-3 p-l-10 p-r-10 cursor-pointer" onclick="window.location.href='bangdan.html'">
+						<b><big class="color-blue">2016美国留学公立中学排行榜</big></b>
+					</div>
+					<div class="col-lg-8 p-l-10 p-r-10 cursor-pointer" onclick="window.location.href='bangdan-sili.html'">
+						2016美国留学私立中学排行榜
+					</div>
+				</div>
+			</div>
+		</div>-->
+		<div class="container m-t-20">
+
+			<!-- Nav tabs -->
+			<a href="jisuanfangshi_biyexinshui.html" class="btn btn-primary paiming-btn m-b-10">How we calculate the rankings <span class="glyphicon glyphicon-chevron-right"></span></a>
+			<ul class="nav nav-tabs" role="tablist">
+				<li role="presentation" class="active">
+					<a href="#home" aria-controls="home" role="tab" data-toggle="tab" style="margin-top: 1px;">Colleges With Highest Salaries After Graduation</a>
+				</li>
+				<!--<li role="presentation">
+					<a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">2016年中国留学公立中学排行榜</a>
+				</li>
+				<li role="presentation">
+					<a href="#messages" aria-controls="messages" role="tab" data-toggle="tab">2016年中国留学私立中学排行榜</a>
+				</li>-->
+			</ul>
+			<!-- Tab panes -->
+			<div class="tab-content">
+				<div role="tabpanel" class="tab-pane active" id="home" style="background-color: #FFFFFF; border: 1px solid #DDDDDD; margin-top: -2px;">
+					<div class="p-l-10 p-r-10">
+						<div class="table-responsive m-t-15">
+							<table class="table">
+								<thead class="list-table-tit">
+									<tr>
+										<th width="50">Ranking</th>
+										<th>University</th>
+										<th>Average Salary<br />After Graduation</th>
+										<th class="hidden-xs">US News Ranking</th>
+										<th class="hidden-xs">Type</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td>1</td>
+										<td>Harvard University
+										</td>
+										<td>$95,500</td>
+										<td>2</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>2</td>
+										<td>MIT</td>
+										<td>$89,200</td>
+										<td>7</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>3</td>
+										<td>Babson College</td>
+										<td>$86,700</td>
+										<td>x</td>
+										<td>Regional</td>
+									</tr>
+									<tr>
+										<td>4</td>
+										<td>Stanford University</td>
+										<td>$86,000</td>
+										<td>5</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>5</td>
+										<td>Georgetown University</td>
+										<td>$84,000</td>
+										<td>20</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>6</td>
+										<td>Stevenson Institute of Technology</td>
+										<td>$83,700</td>
+										<td>71</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>7</td>
+										<td>Worcester Polytechnic Institute
+										</td>
+										<td>$80,300</td>
+										<td>60</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>8</td>
+										<td>University of Pennsylvania
+										</td>
+										<td>$79,700</td>
+										<td>8</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>9</td>
+										<td>Rensselaer Polytechnic Institute</td>
+										<td>$79,600</td>
+										<td>39</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>10</td>
+										<td>Harvey Mudd College</td>
+										<td>$78,600</td>
+										<td>21</td>
+										<td>Liberal Arts</td>
+									</tr>
+									<tr>
+										<td>11</td>
+										<td>Princeton University</td>
+										<td>$77,900</td>
+										<td>1</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>12</td>
+										<td>California Institute of Technology</td>
+										<td>$77,800</td>
+										<td>12</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>13</td>
+										<td>Lehigh University</td>
+										<td>$76,700</td>
+										<td>44</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>14</td>
+										<td>Duke University</td>
+										<td>$76,700</td>
+										<td>8</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>15</td>
+										<td>Carnegie Mellon University
+										</td>
+										<td>$76,200</td>
+										<td>24</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>16</td>
+										<td>Colorado School of Mines
+										</td>
+										<td>$75,700</td>
+										<td>82</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>17</td>
+										<td>Columbia University</td>
+										<td>$75,200</td>
+										<td>5</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>18</td>
+										<td>Georgia Institute of Technology
+										</td>
+										<td>$74,500</td>
+										<td>34</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>19</td>
+										<td>Yale University</td>
+										<td>$74,200</td>
+										<td>3</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>20</td>
+										<td>Washington and Lee</td>
+										<td>$72,900</td>
+										<td>11</td>
+										<td>Liberal Arts</td>
+									</tr>
+									<tr>
+										<td>21</td>
+										<td>Cornell University</td>
+										<td>$72,100</td>
+										<td>15</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>22</td>
+										<td>University of Notre Dame
+										</td>
+										<td>$70,100</td>
+										<td>15</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>23</td>
+										<td>Illinois Institute of Technology
+										</td>
+										<td>$69,300</td>
+										<td>103</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>24</td>
+										<td>Bucknell University</td>
+										<td>$69,100</td>
+										<td>32</td>
+										<td>Liberal Arts</td>
+									</tr>
+									<tr>
+										<td>25</td>
+										<td>Lafayette College</td>
+										<td>$68,800</td>
+										<td>36</td>
+										<td>Liberal Arts</td>
+									</tr>
+									<tr>
+										<td>26</td>
+										<td>Case Western Reserve University
+										</td>
+										<td>$68,600</td>
+										<td>37</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>27</td>
+										<td>Clarkson University</td>
+										<td>$68,300</td>
+										<td>129</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>28</td>
+										<td>University of the Pacific
+										</td>
+										<td>$68,200</td>
+										<td>111</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>29</td>
+										<td>Dartmouth College</td>
+										<td>$67,800</td>
+										<td>11</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>30</td>
+										<td>University of Southern California</td>
+										<td>$67,700</td>
+										<td>23</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>31</td>
+										<td>Boston College</td>
+										<td>$66,700</td>
+										<td>31</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>32</td>
+										<td>Claremont McKenna College
+										</td>
+										<td>$66,400</td>
+										<td>9</td>
+										<td>Liberal Arts</td>
+									</tr>
+									<tr>
+										<td>33</td>
+										<td>Johns Hopkins University
+										</td>
+										<td>$65,900</td>
+										<td>10</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>34</td>
+										<td>George Washington University
+										</td>
+										<td>$65,400</td>
+										<td>56</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>35</td>
+										<td>Tufts University</td>
+										<td>$65,000</td>
+										<td>27</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>36</td>
+										<td>New Jersey Institute of Technology</td>
+										<td>$64,500</td>
+										<td>135</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>37</td>
+										<td>Northwestern University
+										</td>
+										<td>$64,400</td>
+										<td>12</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>38</td>
+										<td>Missouri University of Science and Technology</td>
+										<td>$64,100</td>
+										<td>164</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>39</td>
+										<td>University of Chicago</td>
+										<td>$64,000</td>
+										<td>3</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>40</td>
+										<td>Union College</td>
+										<td>$64,000</td>
+										<td>32</td>
+										<td>Liberal Arts</td>
+									</tr>
+									<tr>
+										<td>41</td>
+										<td>College of Holy Cross</td>
+										<td>$63,100</td>
+										<td>32</td>
+										<td>Liberal Arts</td>
+									</tr>
+									<tr>
+										<td>42</td>
+										<td>Washington University in Saint Louis</td>
+										<td>$62,800</td>
+										<td>19</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>43</td>
+										<td>Saint Vincent College</td>
+										<td>$61,800</td>
+										<td>149</td>
+										<td>Liberal Arts</td>
+									</tr>
+									<tr>
+										<td>44</td>
+										<td>University of California - Berkeley</td>
+										<td>$60,800</td>
+										<td>20</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>45</td>
+										<td>Vanderbilt University</td>
+										<td>$60,700</td>
+										<td>15</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>46</td>
+										<td>Colgate University</td>
+										<td>$60,300</td>
+										<td>12</td>
+										<td>Liberal Arts</td>
+									</tr>
+									<tr>
+										<td>47</td>
+										<td>University of Richmond
+										</td>
+										<td>$59,900</td>
+										<td>27</td>
+										<td>Liberal Arts</td>
+									</tr>
+									<tr>
+										<td>48</td>
+										<td>Wake Forest University
+										</td>
+										<td>$59,800</td>
+										<td>27</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>49</td>
+										<td>Boston University</td>
+										<td>$59,500</td>
+										<td>39</td>
+										<td>Research</td>
+									</tr>
+									<tr>
+										<td>50</td>
+										<td>Pepperdine University</td>
+										<td>$59,200</td>
+										<td>50</td>
+										<td>Research</td>
+									</tr>
+								</tbody>
+							</table>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--<div class="container m-t-20">
+			<button class="btn btn-primary">排名计算方式</button> <button class="btn btn-success">密支根大学</button> <button class="btn btn-success">威斯康星大学</button>
+		</div>-->
+
+		<footer class="text-center m-t-40">
+			<small>Copyright © CollegeNode</small>
+		</footer>
+		<script src="js/jquery-2.1.3.min.js" type="text/javascript" charset="utf-8"></script>
+		<!-- Include all compiled plugins (below), or include individual files as needed -->
+		<script src="bootstrap/js/bootstrap.min.js"></script>
+		<style type="text/css">
+			.nav-tabs>li.active>a,
+			.nav-tabs>li.active>a:hover,
+			.nav-tabs>li.active>a:focus {
+				color: #489ed2;
+				background-color: #FFFFFF;
+				border: 1px solid #DDDDDD;
+				cursor: default;
+				border-bottom: transparent;
+			}
+			
+			.nav-tabs>li>a:hover {
+				border-radius: 4px;
+				border-bottom: transparent;
+			}
+			
+			.btn-default {
+				border-radius: 25px;
+				font-size: 16px;
+				padding: 12px 40px;
+				color: #489ed2;
+				background-color: #fff;
+				border-color: #fff;
+			}
+			
+			.paiming-btn {
+				float: initial;
+			}
+			
+			@media only screen and (min-width:768px) {
+				.paiming-btn {
+					float: right;
+				}
+			}
+			
+			.table>thead>tr>th {
+				vertical-align: middle;
+			}
+			.table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {
+				vertical-align: middle;
+			}
+		</style>
+	</body>
+
+</html>

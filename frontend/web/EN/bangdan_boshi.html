@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+		<title>collegenode</title>
+
+		<!-- Bootstrap -->
+		<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+     
+    <![endif]-->
+	</head>
+
+	<body>
+		<nav class="navbar navbar-default navbar-collegenode" role="navigation">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collegenode-collapse">
+					<span class="sr-only">Toggle navigation</span> 
+					<span class="icon-bar"></span> 
+					<span class="icon-bar"></span> 
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="index.html"><img src="img/logo.png"></a>
+			</div>
+			<div class="collapse navbar-collapse navbar-collegenode-collapse">
+				<ul class="nav navbar-nav navbar-right">
+					<li>
+						<a href="index.html" class="nav-menu"><small>Home</small></a>
+					</li>
+					<li>
+						<a href="bangdan_meiguo.html" class="nav-menu"><small>CollegeNode Rankings</small></a>
+					</li>
+					<li class="dropdown">
+						<a id="dLabel" class="nav-menu" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							<small>CollegeNode English</small>
+							<span class="caret"></span>
+						</a>
+						<ul class="dropdown-menu" aria-labelledby="dLabel">
+							<li>
+								<a href="http://collegenode.cn/product.html" class="color-blue">Panama</a>
+							</li>
+							<li>
+								<a href="/SPANISH/index.html" class="color-blue">CollegeNode Spanish</a>
+							</li>
+						</ul>
+					</li>
+					<!--<li>
+						<a href="mingxiao-dongtai.html" class="nav-menu"><small>名校动态</small></a>
+					</li>-->
+					<li>
+						<a href="about.html" class="nav-menu"><small>About us</small></a>
+					</li>
+					<!--<li>
+						<a class="btn" href="#" style="border: 1px solid #FFFFFF; padding: 5px 20px; border-radius: 25px; margin-top: 15px; margin-left: 30px; margin-right: 15px;">
+							<small>简体中文</small>		
+							<span class="caret"></span>
+						</a>
+					</li>-->
+				</ul>
+			</div>
+		</nav>
+		<div class="main-header sub-header">
+			<div class="container">
+				<div class="text-center">
+					<h1 style="font-size: 38px;">CollegeNode Rankings</h1>
+					<h3>Your Guide to Studying in the USA</h3>
+					<a href="bangdan_meiguo.html" class="btn btn-default m-t-10">Best High Schools in the US</a>
+					<a href="bangdan_biyexinshui.html" class="btn btn-default m-t-10">Colleges With Highest Salaries After Graduation</a>
+					<a href="bangdan_boshi.html" class="btn btn-default m-t-10">Top Ph.D Feeder Colleges</a>
+				</div>
+			</div>
+		</div>
+		<!--<div class="container">
+			<div class="bangdan-menu">
+				<h4>排名计算方式</h4>
+				<p>联校网和美国60多个大学的招生办合作，综合了招生办录取学生多年的数据。排名综合积分是根据高中前一年送往前30大学的学生总人数，成功录取比率，还有学校毕业班学生数量来计算的。高排名美国大学录取的中国学生在综合积分里的比重高于低排名的美国大学。</p>
+				<button class="btn btn-danger m-t-10" onclick="window.open('mizhigen.html')">密支根大学 top20 高中排名</button> <button class="btn btn-danger m-t-10" onclick="window.open('weisikangxing.html')">威斯康星大学 top20 高中排名</button>
+			</div>
+		</div>-->
+		<!--<div class="container">
+			<div class="bangdan-menu">
+				<div class="row">
+					<div class="col-lg-1 color-gray p-l-10 p-r-10">
+						榜单导航
+					</div>
+					<div class="col-lg-3 p-l-10 p-r-10 cursor-pointer" onclick="window.location.href='bangdan.html'">
+						<b><big class="color-blue">2016美国留学公立中学排行榜</big></b>
+					</div>
+					<div class="col-lg-8 p-l-10 p-r-10 cursor-pointer" onclick="window.location.href='bangdan-sili.html'">
+						2016美国留学私立中学排行榜
+					</div>
+				</div>
+			</div>
+		</div>-->
+		<div class="container m-t-20">
+
+			<!-- Nav tabs -->
+			<a href="jisuanfangshi_boshi.html" class="btn btn-primary paiming-btn m-b-10">How we calculate the rankings <span class="glyphicon glyphicon-chevron-right"></span></a>
+			<ul class="nav nav-tabs" role="tablist">
+				<li role="presentation" class="active">
+					<a href="#home" aria-controls="home" role="tab" data-toggle="tab" style="margin-top: 1px;">Top Ph.D Feeder Colleges</a>
+				</li>
+				<!--<li role="presentation">
+					<a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">2016年中国留学公立中学排行榜</a>
+				</li>
+				<li role="presentation">
+					<a href="#messages" aria-controls="messages" role="tab" data-toggle="tab">2016年中国留学私立中学排行榜</a>
+				</li>-->
+			</ul>
+			<!-- Tab panes -->
+			<div class="tab-content">
+				<div role="tabpanel" class="tab-pane active" id="home" style="background-color: #FFFFFF; border: 1px solid #DDDDDD; margin-top: -2px;">
+					<div class="p-l-10 p-r-10">
+						<button class="btn btn-danger m-t-15" onclick="window.open('bangdan_boshi_dilixue.html')">Geography</button> <button class="btn btn-danger m-t-15" onclick="window.open('bangdan_boshi_shengwuxue.html')">Biology</button> <button class="btn btn-danger m-t-15" onclick="window.open('bangdan_boshi_shuxuediannao.html')">Math/Computer Science</button> <button class="btn btn-danger m-t-15" onclick="window.open('bangdan_boshi_ligongke.html')">Sciences and Engineering</button> <button class="btn btn-danger m-t-15" onclick="window.open('bangdan_boshi_xinlixue.html')">Psychology</button> <button class="btn btn-danger m-t-15" onclick="window.open('bangdan_boshi_shehuikexue.html')">Social Sciences</button> <button class="btn btn-danger m-t-15" onclick="window.open('bangdan_boshi_wenxue.html')">Literature</button> <button class="btn btn-danger m-t-15" onclick="window.open('bangdan_boshi_yishu.html')">Arts</button>
+						<div class="table-responsive m-t-15">
+							<table class="table">
+								<thead class="list-table-tit">
+									<tr>
+										<th valign="middle" width="50" height="50">Ranking</th>
+								<th valign="middle">University</th>
+								<th class="hidden-xs" width="250">Number of undergraduate alumni who received a Ph.D. degree (2003-2012)</th>
+								<th class="hidden-xs" width="250">Total of students that graduated with bachelor degree (1998-2007)</th>
+								<th valign="middle" width="220">Percentage of undergraduate alumni that received a Ph.D. degree</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td>1</td>
+										<td>California Institute of Technology</td>
+										<td>785</td>
+										<td>2160</td>
+										<td>36.34%</td>
+									</tr>
+									<tr>
+										<td>2</td>
+										<td>Harvey Mudd College</td>
+										<td>372</td>
+										<td>1590</td>
+										<td>23.40%</td>
+									</tr>
+									<tr>
+										<td>3</td>
+										<td>Swarthmore College</td>
+										<td>738</td>
+										<td>3577</td>
+										<td>20.63%</td>
+									</tr>
+									<tr>
+										<td>4</td>
+										<td>Reed College</td>
+										<td>563</td>
+										<td>2829</td>
+										<td>19.90%</td>
+									</tr>
+									<tr>
+										<td>5</td>
+										<td>Carleton College</td>
+										<td>811</td>
+										<td>4621</td>
+										<td>17.55%</td>
+									</tr>
+									<tr>
+										<td>6</td>
+										<td>Massachusetts Institute of Technology</td>
+										<td>2026</td>
+										<td>12076</td>
+										<td>16.78%</td>
+									</tr>
+									<tr>
+										<td>7</td>
+										<td>Grinnell College</td>
+										<td>524</td>
+										<td>3407</td>
+										<td>15.38%</td>
+									</tr>
+									<tr>
+										<td>8</td>
+										<td>Harvard University</td>
+										<td>2500</td>
+										<td>17956</td>
+										<td>13.92%</td>
+									</tr>
+									<tr>
+										<td>9</td>
+										<td>Princeton University</td>
+										<td>1555</td>
+										<td>11267</td>
+										<td>13.80%</td>
+									</tr>
+									<tr>
+										<td>10</td>
+										<td>University of Chicago</td>
+										<td>1349</td>
+										<td>10002</td>
+										<td>13.49%</td>
+									</tr>
+									<tr>
+										<td>11</td>
+										<td>Haverford College</td>
+										<td>392</td>
+										<td>2907</td>
+										<td>13.48%</td>
+									</tr>
+									<tr>
+										<td>12</td>
+										<td>Oberlin College</td>
+										<td>897</td>
+										<td>6895</td>
+										<td>13.01%</td>
+									</tr>
+									<tr>
+										<td>13</td>
+										<td>Williams College</td>
+										<td>664</td>
+										<td>5188</td>
+										<td>12.80%</td>
+									</tr>
+									<tr>
+										<td>14</td>
+										<td>Pomona College</td>
+										<td>483</td>
+										<td>3783</td>
+										<td>12.77%</td>
+									</tr>
+									<tr>
+										<td>15</td>
+										<td>Amherst College</td>
+										<td>534</td>
+										<td>4207</td>
+										<td>12.69%</td>
+									</tr>
+									<tr>
+										<td>16</td>
+										<td>Bryn Mawr College</td>
+										<td>384</td>
+										<td>3035</td>
+										<td>12.65%</td>
+									</tr>
+									<tr>
+										<td>17</td>
+										<td>Yale University</td>
+										<td>1671</td>
+										<td>13329</td>
+										<td>12.54%</td>
+									</tr>
+									<tr>
+										<td>18</td>
+										<td>Rice University</td>
+										<td>905</td>
+										<td>7375</td>
+										<td>12.27%</td>
+									</tr>
+									<tr>
+										<td>19</td>
+										<td>St John's College</td>
+										<td>114</td>
+										<td>1004</td>
+										<td>11.35%</td>
+									</tr>
+									<tr>
+										<td>20</td>
+										<td>Macalester College</td>
+										<td>469</td>
+										<td>4189</td>
+										<td>11.20%</td>
+									</tr>
+									<tr>
+										<td>21</td>
+										<td>Brown University</td>
+										<td>1689</td>
+										<td>15123</td>
+										<td>11.17%</td>
+									</tr>
+									<tr>
+										<td>22</td>
+										<td>Stanford University</td>
+										<td>1880</td>
+										<td>17242</td>
+										<td>10.90%</td>
+									</tr>
+									<tr>
+										<td>23</td>
+										<td>Wesleyan University (CT)
+										</td>
+										<td>745</td>
+										<td>7278</td>
+										<td>10.24%</td>
+									</tr>
+									<tr>
+										<td>24</td>
+										<td>Wellesley College</td>
+										<td>609</td>
+										<td>5980</td>
+										<td>10.18%</td>
+									</tr>
+									<tr>
+										<td>25</td>
+										<td>Lawrence University (WI)
+										</td>
+										<td>277</td>
+										<td>2729</td>
+										<td>10.15%</td>
+									</tr>
+									<tr>
+										<td>26</td>
+										<td>Earlham College</td>
+										<td>221</td>
+										<td>2328</td>
+										<td>9.49%</td>
+									</tr>
+									<tr>
+										<td>27</td>
+										<td>Vassar College</td>
+										<td>571</td>
+										<td>6032</td>
+										<td>9.47%</td>
+									</tr>
+									<tr>
+										<td>28</td>
+										<td>University of Rochester
+										</td>
+										<td>1073</td>
+										<td>11359</td>
+										<td>9.45%</td>
+									</tr>
+									<tr>
+										<td>29</td>
+										<td>Hendrix College</td>
+										<td>205</td>
+										<td>2174</td>
+										<td>9.43%</td>
+									</tr>
+									<tr>
+										<td>30</td>
+										<td>Duke University</td>
+										<td>1456</td>
+										<td>15474</td>
+										<td>9.41%</td>
+									</tr>
+									<tr>
+										<td>31</td>
+										<td>Case Western Reserve University
+										</td>
+										<td>709</td>
+										<td>7586</td>
+										<td>9.35%</td>
+									</tr>
+									<tr>
+										<td>32</td>
+										<td>Cornell University, All Campuses</td>
+										<td>3218</td>
+										<td>35250</td>
+										<td>9.13%</td>
+									</tr>
+									<tr>
+										<td>33</td>
+										<td>Kalamazoo College</td>
+										<td>252</td>
+										<td>2810</td>
+										<td>8.97%</td>
+									</tr>
+									<tr>
+										<td>34</td>
+										<td>Dartmouth College</td>
+										<td>943</td>
+										<td>10626</td>
+										<td>8.87%</td>
+									</tr>
+									<tr>
+										<td>35</td>
+										<td>New Mexico Institute of Mining and Technology</td>
+										<td>158</td>
+										<td>1781</td>
+										<td>8.87%</td>
+									</tr>
+									<tr>
+										<td>36</td>
+										<td>Smith College</td>
+										<td>623</td>
+										<td>7057</td>
+										<td>8.83%</td>
+									</tr>
+									<tr>
+										<td>37</td>
+										<td>The New England Conservatory of Music</td>
+										<td>67</td>
+										<td>762</td>
+										<td>8.79%</td>
+									</tr>
+									<tr>
+										<td>38</td>
+										<td>Bowdoin College</td>
+										<td>360</td>
+										<td>4195</td>
+										<td>8.58%</td>
+									</tr>
+									<tr>
+										<td>39</td>
+										<td>Hampshire College</td>
+										<td>224</td>
+										<td>2623</td>
+										<td>8.54%</td>
+									</tr>
+									<tr>
+										<td>40</td>
+										<td>Mount Holyoke College</td>
+										<td>438</td>
+										<td>5143</td>
+										<td>8.52%</td>
+									</tr>
+									<tr>
+										<td>41</td>
+										<td>Kenyon College</td>
+										<td>323</td>
+										<td>3899</td>
+										<td>8.28%</td>
+									</tr>
+									<tr>
+										<td>42</td>
+										<td>College of William and Mary</td>
+										<td>1096</td>
+										<td>13621</td>
+										<td>8.05%</td>
+									</tr>
+									<tr>
+										<td>43</td>
+										<td>Carnegie Mellon University
+										</td>
+										<td>950</td>
+										<td>11882</td>
+										<td>8.00%</td>
+									</tr>
+									<tr>
+										<td>44</td>
+										<td>Brandeis University</td>
+										<td>609</td>
+										<td>7673</td>
+										<td>7.94%</td>
+									</tr>
+									<tr>
+										<td>45</td>
+										<td>Occidental College</td>
+										<td>312</td>
+										<td>3931</td>
+										<td>7.94%</td>
+									</tr>
+									<tr>
+										<td>46</td>
+										<td>Columbia University in the City of New York</td>
+										<td>1308</td>
+										<td>16488</td>
+										<td>7.93%</td>
+									</tr>
+									<tr>
+										<td>47</td>
+										<td>Whitman College</td>
+										<td>275</td>
+										<td>3482</td>
+										<td>7.90%</td>
+									</tr>
+									<tr>
+										<td>48</td>
+										<td>Allegheny College</td>
+										<td>311</td>
+										<td>4020</td>
+										<td>7.74%</td>
+									</tr>
+									<tr>
+										<td>49</td>
+										<td>The College of Wooster
+										</td>
+										<td>303</td>
+										<td>3928</td>
+										<td>7.71%</td>
+									</tr>
+									<tr>
+										<td>50</td>
+										<td>Davidson College</td>
+										<td>328</td>
+										<td>4312</td>
+										<td>7.61%</td>
+									</tr>
+									<tr>
+										<td>51</td>
+										<td>Spelman College</td>
+										<td>344</td>
+										<td>4534</td>
+										<td>7.59%</td>
+									</tr>
+									<tr>
+										<td>52</td>
+										<td>Johns Hopkins University
+										</td>
+										<td>985</td>
+										<td>13005</td>
+										<td>7.57%</td>
+									</tr>
+									<tr>
+										<td>53</td>
+										<td>St Olaf College</td>
+										<td>514</td>
+										<td>6811</td>
+										<td>7.55%</td>
+									</tr>
+									<tr>
+										<td>54</td>
+										<td>Trinity University (TX)
+										</td>
+										<td>401</td>
+										<td>5317</td>
+										<td>7.54%</td>
+									</tr>
+									<tr>
+										<td>55</td>
+										<td>Cooper Union for the Advancement of Science and Art</td>
+										<td>142</td>
+										<td>1889</td>
+										<td>7.52%</td>
+									</tr>
+									<tr>
+										<td>56</td>
+										<td>University of California-Berkeley
+										</td>
+										<td>4607</td>
+										<td>62381</td>
+										<td>7.39%</td>
+									</tr>
+									<tr>
+										<td>57</td>
+										<td>Barnard College</td>
+										<td>434</td>
+										<td>5919</td>
+										<td>7.33%</td>
+									</tr>
+									<tr>
+										<td>58</td>
+										<td>Bard College</td>
+										<td>207</td>
+										<td>2862</td>
+										<td>7.23%</td>
+									</tr>
+									<tr>
+										<td>59</td>
+										<td>Knox College</td>
+										<td>182</td>
+										<td>2557</td>
+										<td>7.12%</td>
+									</tr>
+									<tr>
+										<td>60</td>
+										<td>Wheaton College (IL)</td>
+										<td>417</td>
+										<td>5879</td>
+										<td>7.09%</td>
+									</tr>
+									<tr>
+										<td>61</td>
+										<td>Franklin and Marshall College
+										</td>
+										<td>300</td>
+										<td>4350</td>
+										<td>6.90%</td>
+									</tr>
+									<tr>
+										<td>62</td>
+										<td>Tougaloo College</td>
+										<td>93</td>
+										<td>1353</td>
+										<td>6.87%</td>
+									</tr>
+									<tr>
+										<td>63</td>
+										<td>Bates College</td>
+										<td>301</td>
+										<td>4382</td>
+										<td>6.87%</td>
+									</tr>
+									<tr>
+										<td>64</td>
+										<td>Colorado College</td>
+										<td>353</td>
+										<td>5145</td>
+										<td>6.86%</td>
+									</tr>
+									<tr>
+										<td>65</td>
+										<td>The Juilliard School</td>
+										<td>69</td>
+										<td>1010</td>
+										<td>6.83%</td>
+									</tr>
+									<tr>
+										<td>66</td>
+										<td>St John's College (NM)
+										</td>
+										<td>58</td>
+										<td>849</td>
+										<td>6.83%</td>
+									</tr>
+									<tr>
+										<td>67</td>
+										<td>Middlebury College</td>
+										<td>417</td>
+										<td>6124</td>
+										<td>6.81%</td>
+									</tr>
+									<tr>
+										<td>68</td>
+										<td>Northwestern University
+										</td>
+										<td>1373</td>
+										<td>20380</td>
+										<td>6.74%</td>
+									</tr>
+									<tr>
+										<td>69</td>
+										<td>Wabash College</td>
+										<td>116</td>
+										<td>1765</td>
+										<td>6.57%</td>
+									</tr>
+									<tr>
+										<td>70</td>
+										<td>Scripps College</td>
+										<td>120</td>
+										<td>1831</td>
+										<td>6.55%</td>
+									</tr>
+									<tr>
+										<td>71</td>
+										<td>University of Dallas</td>
+										<td>158</td>
+										<td>2425</td>
+										<td>6.52%</td>
+									</tr>
+									<tr>
+										<td>72</td>
+										<td>Colby College</td>
+										<td>311</td>
+										<td>4804</td>
+										<td>6.47%</td>
+									</tr>
+									<tr>
+										<td>73</td>
+										<td>Centre College</td>
+										<td>153</td>
+										<td>2370</td>
+										<td>6.46%</td>
+									</tr>
+									<tr>
+										<td>74</td>
+										<td>Beloit College</td>
+										<td>175</td>
+										<td>2729</td>
+										<td>6.41%</td>
+									</tr>
+									<tr>
+										<td>75</td>
+										<td>Agnes Scott College</td>
+										<td>112</td>
+										<td>1755</td>
+										<td>6.38%</td>
+									</tr>
+									<tr>
+										<td>76</td>
+										<td>Drew University</td>
+										<td>215</td>
+										<td>3384</td>
+										<td>6.35%</td>
+									</tr>
+									<tr>
+										<td>77</td>
+										<td>Washington University in St Louis</td>
+										<td>980</td>
+										<td>15568</td>
+										<td>6.29%</td>
+									</tr>
+									<tr>
+										<td>78</td>
+										<td>Sewanee-The University of the South</td>
+										<td>195</td>
+										<td>3108</td>
+										<td>6.27%</td>
+									</tr>
+									<tr>
+										<td>79</td>
+										<td>Southwestern University
+										</td>
+										<td>179</td>
+										<td>2859</td>
+										<td>6.26%</td>
+									</tr>
+									<tr>
+										<td>80</td>
+										<td>Colgate University</td>
+										<td>418</td>
+										<td>6903</td>
+										<td>6.06%</td>
+									</tr>
+									<tr>
+										<td>81</td>
+										<td>Claremont McKenna College
+										</td>
+										<td>162</td>
+										<td>2716</td>
+										<td>5.96%</td>
+									</tr>
+									<tr>
+										<td>82</td>
+										<td>Ohio Wesleyan University
+										</td>
+										<td>225</td>
+										<td>3817</td>
+										<td>5.89%</td>
+									</tr>
+									<tr>
+										<td>83</td>
+										<td>Cleveland Institute of Music</td>
+										<td>31</td>
+										<td>529</td>
+										<td>5.86%</td>
+									</tr>
+									<tr>
+										<td>84</td>
+										<td>Tufts University</td>
+										<td>760</td>
+										<td>12980</td>
+										<td>5.86%</td>
+									</tr>
+									<tr>
+										<td>85</td>
+										<td>Juniata College</td>
+										<td>170</td>
+										<td>2915</td>
+										<td>5.83%</td>
+									</tr>
+									<tr>
+										<td>86</td>
+										<td>Connecticut College</td>
+										<td>253</td>
+										<td>4413</td>
+										<td>5.73%</td>
+									</tr>
+									<tr>
+										<td>87</td>
+										<td>Hamilton College</td>
+										<td>253</td>
+										<td>4431</td>
+										<td>5.71%</td>
+									</tr>
+									<tr>
+										<td>88</td>
+										<td>Furman University</td>
+										<td>368</td>
+										<td>6472</td>
+										<td>5.69%</td>
+									</tr>
+									<tr>
+										<td>89</td>
+										<td>University of Virginia-Main Campus</td>
+										<td>1831</td>
+										<td>32289</td>
+										<td>5.67%</td>
+									</tr>
+									<tr>
+										<td>90</td>
+										<td>Rensselaer Polytechnic Institute</td>
+										<td>634</td>
+										<td>11239</td>
+										<td>5.64%</td>
+									</tr>
+									<tr>
+										<td>91</td>
+										<td>University of Pennsylvania
+										</td>
+										<td>1536</td>
+										<td>27858</td>
+										<td>5.51%</td>
+									</tr>
+									<tr>
+										<td>92</td>
+										<td>Wake Forest University
+										</td>
+										<td>513</td>
+										<td>9305</td>
+										<td>5.51%</td>
+									</tr>
+									<tr>
+										<td>93</td>
+										<td>Rhodes College</td>
+										<td>182</td>
+										<td>3339</td>
+										<td>5.45%</td>
+									</tr>
+									<tr>
+										<td>94</td>
+										<td>Emory University</td>
+										<td>794</td>
+										<td>14587</td>
+										<td>5.44%</td>
+									</tr>
+									<tr>
+										<td>95</td>
+										<td>Vanderbilt University</td>
+										<td>784</td>
+										<td>14423</td>
+										<td>5.44%</td>
+									</tr>
+									<tr>
+										<td>96</td>
+										<td>University of Michigan at Ann Arbor</td>
+										<td>3067</td>
+										<td>56614</td>
+										<td>5.42%</td>
+									</tr>
+									<tr>
+										<td>97</td>
+										<td>University of Notre Dame
+										</td>
+										<td>1083</td>
+										<td>20278</td>
+										<td>5.34%</td>
+									</tr>
+									<tr>
+										<td>98</td>
+										<td>Sarah Lawrence College
+										</td>
+										<td>144</td>
+										<td>2700</td>
+										<td>5.33%</td>
+									</tr>
+									<tr>
+										<td>99</td>
+										<td>Bucknell University</td>
+										<td>451</td>
+										<td>8481</td>
+										<td>5.32%</td>
+									</tr>
+									<tr>
+										<td>100</td>
+										<td>Rose-Hulman Institute of Technology</td>
+										<td>187</td>
+										<td>3533</td>
+										<td>5.29%</td>
+									</tr>
+								</tbody>
+							</table>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--<div class="container m-t-20">
+			<button class="btn btn-primary">排名计算方式</button> <button class="btn btn-success">密支根大学</button> <button class="btn btn-success">威斯康星大学</button>
+		</div>-->
+
+		<footer class="text-center m-t-40">
+			<small>Copyright © CollegeNode</small>
+		</footer>
+		<script src="js/jquery-2.1.3.min.js" type="text/javascript" charset="utf-8"></script>
+		<!-- Include all compiled plugins (below), or include individual files as needed -->
+		<script src="bootstrap/js/bootstrap.min.js"></script>
+		<style type="text/css">
+			.nav-tabs>li.active>a,
+			.nav-tabs>li.active>a:hover,
+			.nav-tabs>li.active>a:focus {
+				color: #489ed2;
+				background-color: #FFFFFF;
+				border: 1px solid #DDDDDD;
+				cursor: default;
+				border-bottom: transparent;
+			}
+			
+			.nav-tabs>li>a:hover {
+				border-radius: 4px;
+				border-bottom: transparent;
+			}
+			
+			.btn-default {
+				border-radius: 25px;
+				font-size: 16px;
+				padding: 12px 40px;
+				color: #489ed2;
+				background-color: #fff;
+				border-color: #fff;
+			}
+			
+			.paiming-btn {
+				float: initial;
+			}
+			
+			@media only screen and (min-width:768px) {
+				.paiming-btn {
+					float: right;
+				}
+			}
+			.table>thead>tr>th {
+				vertical-align: middle;
+			}
+			.table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {
+				vertical-align: middle;
+			}
+		</style>
+	</body>
+
+</html>
