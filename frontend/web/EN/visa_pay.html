@@ -16,7 +16,6 @@
 		<!--[if lt IE 9]>
      
     <![endif]-->
-
 	</head>
 
 	<body>
@@ -28,12 +27,12 @@
 					<span class="icon-bar"></span> 
 					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="index.html"><img src="img/logo.png"></a>
+				<a class="navbar-brand" href="/site/index?language=EN"><img src="img/logo.png"></a>
 			</div>
 			<div class="collapse navbar-collapse navbar-collegenode-collapse">
 				<ul class="nav navbar-nav navbar-right">
 					<li>
-						<a href="index.html" class="nav-menu"><small>Home</small></a>
+						<a href="/site/index?language=EN" class="nav-menu"><small>Home</small></a>
 					</li>
 					<li>
 						<a href="bangdan_meiguo.html" class="nav-menu"><small>CollegeNode Rankings</small></a>
@@ -44,11 +43,14 @@
 							<span class="caret"></span>
 						</a>
 						<ul class="dropdown-menu" aria-labelledby="dLabel">
-							<li>
+							<li class="text-right">
 								<a href="http://collegenode.cn/product.html" class="color-blue">Panama</a>
 							</li>
-							<li>
-								<a href="/SPANISH/index.html" class="color-blue">CollegeNode Spanish</a>
+							<li class="text-right">
+								<a href="/site/index?language=SPANISH" class="color-blue">CollegeNode Spanish</a>
+							</li>
+							<li class="text-right">
+								<a href="http://www.collegenode.com" class="color-blue">CollegeNode Chinese</a>
 							</li>
 						</ul>
 					</li>
@@ -67,77 +69,47 @@
 				</ul>
 			</div>
 		</nav>
-		<div class="main-header">
-			<div class="container text-center">
-				<div class="headline text-center">
-					<h1 class="text-center">About us</h1>
-					<p class="text-left m-t-30">
-						CollegeNode, also known as American Learning Education Exchange Organization, is a education organizition with focus on American higher education research and international education exchange. The company's goal is to provide the most accurate data on American universities for international students. Company founder Dan Ye has been featured on many international media outlets, including ABC, CNN and CCTV of China, as education expert.
-					</p>
-					<div class="row index-news-row m-t-30">
-						<div class="col-sm-12 m-b-10">
-							<img src="img/cctv-03.png" width="100%" />
-						</div>
+		<h3 class="text-center m-t-30 color-blue">Payment - Visa</h3>
+		<!--<div class="text-center">
+			<select name="" onchange="javascript:location.href=this.value;">
+				<option value="ehaie_2015.html">2015年</option>
+				<option value="ehaie_2016.html">2016年</option>
+			</select>
+		</div>-->
+		<div class="container m-t-40">
+			<div style="width: 300px; margin: 0 auto; border: 1px solid #DDDDDD; padding: 15px; border-radius: 4px;">
+				<form>
+					<div class="form-group">
+						<label for="exampleInputEmail1">Card Number</label>
+						<input type="email" class="form-control" id="exampleInputEmail1" placeholder="Card Number">
 					</div>
-				</div>
-			</div>
-		</div>
-		<svg class="divider" preserveaspectradio="none" viewBox="0 0 1080 46">
-			<polygon x="0" y="0" points="0 46 1080 46 0 0"></polygon>
-		</svg>
-		<div class="container">
-			<div class="row index-news-row" style="padding: 0 10px;">
-				<h1 class="text-center">Contact us</h1>
-				<div class="row contact-form-wrap">
-					<div class="col-sm-6 text-center m-b-10 m-t-20">
-						<img src="img/erwema.jpeg" width="100" height="100" />
-						<h3>Wechat：DanWashington</h3>
+					<div class="form-group m-t-20">
+						<label for="exampleInputPassword1">Password</label>
+						<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
 					</div>
-					<div class="col-sm-6 text-center m-b-10 m-t-20">
-						<img src="img/email.png" width="100" />
-						<h3>info@collegenode.cn</h3>
-					</div>
-					<div class="col-sm-12 color-gray text-center m-t-20">
-						<hr />
-						<p>1133 15th St. NW 12th Floor Washington, DC 20005</p>
-					</div>
-				</div>
-
+					<a href="defail_pay.html" class="btn btn-primary btn-block btn-lg m-t-20">Submit</a>
+				</form>
 			</div>
 		</div>
 
 		<footer class="text-center m-t-40">
-			<small>Copyright © CollegeNode</small>
+			<small>Copyright © 2014-2017 American Learning Education Exchange Organization Inc.</small>
 		</footer>
 		<script src="js/jquery-2.1.3.min.js" type="text/javascript" charset="utf-8"></script>
 		<!-- Include all compiled plugins (below), or include individual files as needed -->
 		<script src="bootstrap/js/bootstrap.min.js"></script>
 		<style type="text/css">
-			.main-header {
-				padding: 1em 0 10%;
-				margin: 0;
+			.table>thead>tr>th {
+				vertical-align: middle;
 			}
 			
-			.main-header .headline {
-				max-width: 100%;
-				max-width: 46em;
-				margin: auto;
-				padding-top: 5%;
-			}
-			
-			.main-header .headline img {
-				border-radius: 8px;
-				box-shadow: 0px 0px 10px 3px rgba(50, 50, 50, 0.1);
-			}
-			
-			.contact-form-wrap {
-				background-color: #fff;
-				border-radius: 8px;
-				border: 1px solid #e9ecee;
-				box-shadow: 1px 2px 3px 0 rgba(0, 0, 0, .1);
-				margin: 30px auto;
-				max-width: 750px;
-				padding: 20px;
+			.table>thead>tr>th,
+			.table>tbody>tr>th,
+			.table>tfoot>tr>th,
+			.table>thead>tr>td,
+			.table>tbody>tr>td,
+			.table>tfoot>tr>td {
+				vertical-align: middle;
 			}
 		</style>
 

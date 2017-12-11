@@ -2,7 +2,6 @@
 
 /* @var $this yii\web\View */
 
-$this->title = 'My Application';
 ?>
 <!DOCTYPE html>
 <html lang="zh-CN">
@@ -15,8 +14,8 @@ $this->title = 'My Application';
     <title>collegenode</title>
 
     <!-- Bootstrap -->
-    <link href="..//bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="..//css/style.css" />
+    <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/css/style.css" />
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -34,7 +33,7 @@ $this->title = 'My Application';
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="../index.html"><img src="/img/logo.png"></a>
+        <a class="navbar-brand" href="/site/index?language=EN"><img src="/img/logo.png"></a>
     </div>
     <div class="collapse navbar-collapse navbar-collegenode-collapse">
         <ul class="nav navbar-nav navbar-right">
@@ -57,7 +56,7 @@ $this->title = 'My Application';
                         <a href="/site/index?language=EN" class="color-blue">CollegeNode English</a>
                     </li>
                     <li>
-                        <a href="/SPANISH/esp_index.html" class="color-blue">CollegeNode Spanish</a>
+                        <a href="/site/index?language=SPANISH" class="color-blue">CollegeNode Spanish</a>
                     </li>
                 </ul>
             </li>
@@ -100,77 +99,26 @@ $this->title = 'My Application';
 <div class="container">
     <h1 class="text-center" style="font-size: 38px;">Articles & Videos</h1>
     <div class="row index-news-row">
-        <div class="col-lg-4 m-t-40 cursor-pointer" onclick="window.location.href='news_detail.html'">
-            <div class="news-box">
-                <div class="row m-t-10">
-                    <div class="col-xs-12">
-                        <img src="/img/news-img.png" width="100%" />
-                    </div>
+        <?php foreach($articles as $key => $value): ?>
+            <?php if($key == 3): ?>
                 </div>
-                <div class="m-t-10 text-overflow">中国大陆出国留学最强中学TOP50榜报告发…</div>
-                <p class="color-gray m-t-5 news-remark text-overflow">Lloyd Peterson是美国大学升学顾问联盟资深成员，曾在美…</p>
-            </div>
-        </div>
-        <div class="col-lg-4 m-t-40 cursor-pointer" onclick="window.location.href='news_detail.html'">
-            <div class="news-box">
-                <div class="row m-t-10">
-                    <div class="col-xs-12">
-                        <img src="/img/news-img.png" width="100%" />
+                <div class="row index-news-row">
+            <?php endif; ?>
+            <div class="col-lg-4 m-t-40 cursor-pointer" onclick="window.location.href='/articles/view?id=<?= $value['id'] ?>&language=EN'">
+                <div class="news-box">
+                    <div class="row m-t-10">
+                        <div class="col-xs-12">
+                            <img src="/img/uploads/<?= $value['img']; ?>" width="100%" />
+                        </div>
                     </div>
+                    <div class="m-t-10 text-overflow"><?= $value['article'] ?></div>
+                    <p class="color-gray m-t-5 news-remark text-overflow"><?= mb_substr($value['content'], 0, 20)."..."; ?></p>
                 </div>
-                <div class="m-t-10 text-overflow">中国大陆出国留学最强中学TOP50榜报告发…</div>
-                <p class="color-gray m-t-5 news-remark text-overflow">Lloyd Peterson是美国大学升学顾问联盟资深成员，曾在美…</p>
             </div>
-        </div>
-        <div class="col-lg-4 m-t-40 cursor-pointer" onclick="window.location.href='news_detail.html'">
-            <div class="news-box">
-                <div class="row m-t-10">
-                    <div class="col-xs-12">
-                        <img src="/img/news-img.png" width="100%" />
-                    </div>
-                </div>
-                <div class="m-t-10 text-overflow">中国大陆出国留学最强中学TOP50榜报告发…</div>
-                <p class="color-gray m-t-5 news-remark text-overflow">Lloyd Peterson是美国大学升学顾问联盟资深成员，曾在美…</p>
-            </div>
-        </div>
-    </div>
-    <div class="row index-news-row">
-        <div class="col-lg-4 m-t-40 cursor-pointer" onclick="window.location.href='news_detail.html'">
-            <div class="news-box">
-                <div class="row m-t-10">
-                    <div class="col-xs-12">
-                        <img src="/img/news-img.png" width="100%" />
-                    </div>
-                </div>
-                <div class="m-t-10 text-overflow">中国大陆出国留学最强中学TOP50榜报告发…</div>
-                <p class="color-gray m-t-5 news-remark text-overflow">Lloyd Peterson是美国大学升学顾问联盟资深成员，曾在美…</p>
-            </div>
-        </div>
-        <div class="col-lg-4 m-t-40 cursor-pointer" onclick="window.location.href='news_detail.html'">
-            <div class="news-box">
-                <div class="row m-t-10">
-                    <div class="col-xs-12">
-                        <img src="/img/news-img.png" width="100%" />
-                    </div>
-                </div>
-                <div class="m-t-10 text-overflow">中国大陆出国留学最强中学TOP50榜报告发…</div>
-                <p class="color-gray m-t-5 news-remark text-overflow">Lloyd Peterson是美国大学升学顾问联盟资深成员，曾在美…</p>
-            </div>
-        </div>
-        <div class="col-lg-4 m-t-40 cursor-pointer" onclick="window.location.href='news_detail.html'">
-            <div class="news-box">
-                <div class="row m-t-10">
-                    <div class="col-xs-12">
-                        <img src="/img/news-img.png" width="100%" />
-                    </div>
-                </div>
-                <div class="m-t-10 text-overflow">中国大陆出国留学最强中学TOP50榜报告发…</div>
-                <p class="color-gray m-t-5 news-remark text-overflow">Lloyd Peterson是美国大学升学顾问联盟资深成员，曾在美…</p>
-            </div>
-        </div>
+        <?php endforeach; ?>
     </div>
     <div class="col-xs-12 text-center m-t-40">
-        <a class="btn btn-primary btn-lg" data-toggle="modal" data-target="#pay-modal">View more articles and videos</a>
+        <a class="btn btn-primary btn-lg" href="/articles/index?language=EN">View more articles and videos</a>
     </div>
 </div>
 <div class="index-about">
@@ -181,7 +129,7 @@ $this->title = 'My Application';
         <h1 class="text-center color-white" style="font-size: 38px;">About us</h1>
         <p class="m-t-40 color-graywhite">CollegeNode, also known as American Learning Education Exchange Organization, is a education organizition with focus on American higher education research and international education exchange. The company's goal is to provide the most accurate data on American universities for international students. Company founder Dan Ye has been featured on many international media outlets, including ABC, CNN and CCTV of China, as education expert.</p>
         <div class="col-xs-12 text-center m-t-20 m-b-40">
-            <a href="../about.html" class="btn btn-primary btn-lg">Learn more</a>
+            <a href="/EN/about.html" class="btn btn-primary btn-lg">Learn more</a>
         </div>
     </div>
     <svg class="divider" preserveaspectradio="none" viewBox="0 0 1080 46">
@@ -204,30 +152,6 @@ $this->title = 'My Application';
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="/bootstrap/js/bootstrap.min.js"></script>
 <script src="/js/backtop.js" type="text/javascript" charset="utf-8"></script>
-<div class="modal" id="pay-modal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
-    <div class="modal-dialog modal-sm" role="document">
-        <div class="modal-content">
-            <div class="modal-header color-blue">
-                Payment
-            </div>
-            <div class="modal-body">
-                <div class="container-fluid">
-                    <div class="row">
-                        <div class="col-sm-6">
-                            <a href="../"><img src="/img/visa.png" width="100%"/></a>
-                        </div>
-                        <div class="col-sm-6">
-                            <a href="../"><img src="/img/mastercard.png" width="100%"/></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-primary" data-dismiss="modal">close</button>
-            </div>
-        </div>
-    </div>
-</div>
 <style type="text/css">
     .btn-default {
         border-radius: 25px;

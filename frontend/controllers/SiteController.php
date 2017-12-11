@@ -12,6 +12,7 @@ use frontend\models\PasswordResetRequestForm;
 use frontend\models\ResetPasswordForm;
 use frontend\models\SignupForm;
 use frontend\models\ContactForm;
+use common\models\Articles;
 
 /**
  * Site controller
@@ -72,7 +73,19 @@ class SiteController extends Controller
      */
     public function actionIndex()
     {
-        return $this->renderPartial('index');
+        $language = Yii::$app->request->get("language", "EN");
+        if($language == "EN"){
+            //英语
+            $language = 1;
+        }else{
+            //西班牙语
+            $language = 2;
+        }
+        $articles = Articles::find()->where(['language' => $language])->orderBy("sort ASC")->limit(6)->all();
+
+        return $this->renderPartial("index_{$language}", [
+            'articles' => $articles
+        ]);
     }
 
     /**

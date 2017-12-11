@@ -67,7 +67,9 @@ class SiteController extends Controller
             'totalCount' => $query->count(),
             'pageSize' => 20
         ]);
-        $data = $query->orderBy("sort ASC")->all();
+        $data = $query->offset($pages->offset)
+            ->limit($pages->limit)
+            ->orderBy("sort ASC")->all();
 
         return $this->render('index', [
             'data' => $data,
