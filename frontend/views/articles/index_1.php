@@ -96,7 +96,7 @@ use yii\widgets\LinkPager;
 						</div>
 					</div>
 					<div class="m-t-10 text-overflow"><?= $value['article']; ?></div>
-					<p class="color-gray m-t-5 news-remark text-overflow"><?= mb_strlen($value['content'], "utf-8") > 20 ? (mb_substr($value['content'], 0, 20, "utf-8") . "...") : $value['content']; ?></p>
+					<p class="color-gray m-t-5 news-remark text-overflow"><?= mb_strlen($value['content'], "utf-8") > 28 ? (mb_substr($value['content'], 0, 28, "utf-8") . "...") : $value['content']; ?></p>
 				</div>
 			</div>
 		<?php endforeach; ?>

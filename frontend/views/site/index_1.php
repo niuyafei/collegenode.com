@@ -112,7 +112,7 @@
                         </div>
                     </div>
                     <div class="m-t-10 text-overflow"><?= $value['article'] ?></div>
-                    <p class="color-gray m-t-5 news-remark text-overflow"><?= mb_substr($value['content'], 0, 20)."..."; ?></p>
+                    <p class="color-gray m-t-5 news-remark text-overflow"><?= mb_substr($value['content'], 0, 28, "utf-8")."..."; ?></p>
                 </div>
             </div>
         <?php endforeach; ?>
