@@ -53,10 +53,10 @@
                         <a href="../http://collegenode.cn/product.html" class="color-blue">Panama</a>
                     </li>
                     <li>
-                        <a href="/site/index?language=EN" class="color-blue">CollegeNode English</a>
+                        <a href="/site/index?language=SPANISH" class="color-blue">CollegeNode Spanish</a>
                     </li>
                     <li>
-                        <a href="/site/index?language=SPANISH" class="color-blue">CollegeNode Spanish</a>
+                        <a href="http://collegenode.com" class="color-blue">CollegeNode Chinese</a>
                     </li>
                 </ul>
             </li>
