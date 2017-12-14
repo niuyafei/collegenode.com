@@ -50,7 +50,7 @@
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="dLabel">
                     <li>
-                        <a href="../http://collegenode.cn/product.html" class="color-blue">Panama</a>
+                        <a href="http://collegenode.cn/product.html" class="color-blue">Panama</a>
                     </li>
                     <li>
                         <a href="/site/index?language=SPANISH" class="color-blue">CollegeNode Spanish</a>
