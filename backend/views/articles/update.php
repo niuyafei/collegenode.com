@@ -82,7 +82,7 @@ use yii\widgets\ActiveForm;
 						</div>
 						<div class="col-xs-9">
 							<?php if($model->img): ?>
-								<img src="/img/uploads/<?= $model->img; ?>" >
+								<img src="/img/uploads/<?= $model->img; ?>" style="width: 800px;" >
 								<p></p>
 							<?php endif; ?>
 							<?= $form->field($model, "img")->fileInput()->label(false); ?>
