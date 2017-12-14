@@ -7,6 +7,14 @@
  */
 use yii\helpers\Html;
 use yii\widgets\ActiveForm;
+
+$referer = Yii::$app->request->referrer;
+
+if(strpos($referer, "language=1") != false){
+	$this->title = "English";
+}else{
+	$this->title = "Spanish";
+}
 ?>
 <div class="col-xs-10">
 	<h4 class="color-blue">名校动态 - 编辑</h4>
