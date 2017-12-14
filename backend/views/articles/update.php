@@ -17,7 +17,7 @@ if(strpos($referer, "language=1") != false){
 }
 ?>
 <div class="col-xs-10">
-	<h4 class="color-blue">名校动态 - 编辑</h4>
+	<h4 class="color-blue">文章和视频 - 编辑</h4>
 	<hr class="m-t-5" />
 	<div class="p-20 p-t-0">
 		<?php $form = ActiveForm::begin([
