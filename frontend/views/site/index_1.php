@@ -146,7 +146,7 @@
             </small>
 		</span>
 <footer class="text-center m-t-40">
-    <small>Copyright © CollegeNode</small>
+    <small>Copyright © 2014-2017 American Learning Education Exchange Organization Inc.</small>
 </footer>
 <script src="/js/jquery-2.1.3.min.js" type="text/javascript" charset="utf-8"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
