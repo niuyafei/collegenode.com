@@ -92,7 +92,7 @@ use yii\widgets\LinkPager;
 				<div class="news-box">
 					<div class="row m-t-10">
 						<div class="col-xs-12">
-							<img src="/img/uploads/<?= $value['img']; ?>" width="100%" />
+							<img src="/img/uploads/<?= $value['img']; ?>" style="width:340px; height: 181px;" />
 						</div>
 					</div>
 					<div class="m-t-10 text-overflow"><?= $value['article']; ?></div>
