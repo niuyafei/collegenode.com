@@ -19,12 +19,7 @@ class ArticlesController extends Controller
 	{
 		$model = new Articles();
 		if($model->load(Yii::$app->request->post())){
-//			$name = $_FILES['Articles']['name']['img'];
-//			$ext = substr($name, strripos($name, "."), strlen($name));
-//			$fileName = date("YmdHis").rand(1000,999) . $ext;
-//			move_uploaded_file($_FILES['Articles']['tmp_name']['img'], $this->path . "/img/uploads/".$fileName);
 			$fileName = $this->uploadFiles($_FILES['Articles']);
-
 			$model->img = $fileName;
 			$model->created_at = date("Y-m-d H:i:s");
 			if($model->save()){
@@ -57,10 +52,17 @@ class ArticlesController extends Controller
 	public function actionUpdate($id)
 	{
 		$model = Articles::findOne($id);
-		if($model->load(Yii::$app->request->post())){
+		if(Yii::$app->request->post()){
+			$img = $model->img;
+			$model->load(Yii::$app->request->post());
 			$model->updated_at = date("Y-m-d H:i:s");
-			$fileName = $this->uploadFiles($_FILES['Articles']);
-			$model->img = $fileName;
+			if($_FILES['Articles']['name']['img']){
+				$fileName = $this->uploadFiles($_FILES['Articles']);
+				$model->img = $fileName;
+			}else{
+				$model->img = $img;
+			}
+
 			if($model->save()){
 				Yii::$app->session->setFlash('success', "更新成功");
 			}else{

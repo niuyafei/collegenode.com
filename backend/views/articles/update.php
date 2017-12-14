@@ -24,71 +24,10 @@ use yii\widgets\ActiveForm;
 				<div class="col-xs-6">
 					<div class="row">
 						<div class="col-xs-3 text-right p-t-5 p-r-0">
-							<b>标题：</b>
-						</div>
-						<div class="col-xs-9">
-							<?= $form->field($model, "article")->textInput()->label(false); ?>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="row case-edit-formwidth">
-				<div class="col-xs-6">
-					<div class="row">
-						<div class="col-xs-3 text-right p-t-5 p-r-0">
-							<b>图片：</b>
-						</div>
-						<div class="col-xs-9">
-							<?= $form->field($model, "img")->fileInput()->label(false); ?>
-							<p class="p-t-5 m-b-0"><small class="color-red">图片大小不超过2M，支持jpg.png.gif格式</small></p>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="row case-edit-formwidth">
-				<div class="col-xs-12">
-					<div class="row">
-						<div class="col-xs-3 text-right p-t-5 p-r-0">
-							<b>内容：</b>
-						</div>
-						<div class="col-xs-10">
-							<?= $form->field($model, "content")->textarea()->label(false); ?>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="row case-edit-formwidth">
-				<div class="col-xs-6">
-					<div class="row">
-						<div class="col-xs-3 text-right p-t-5 p-r-0">
-							<b>视频连接：</b>
-						</div>
-						<div class="col-xs-9">
-							<?= $form->field($model, "video")->textInput()->label(false); ?>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="row case-edit-formwidth">
-				<div class="col-xs-6">
-					<div class="row">
-						<div class="col-xs-3 text-right p-t-5 p-r-0">
 							<b>排序：</b>
 						</div>
 						<div class="col-xs-9">
 							<?= $form->field($model, "sort")->textInput()->label(false); ?>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="row case-edit-formwidth">
-				<div class="col-xs-6">
-					<div class="row">
-						<div class="col-xs-3 text-right p-t-5 p-r-0">
-							<b>点击量：</b>
-						</div>
-						<div class="col-xs-9">
-							<?= $form->field($model, "num")->textInput()->label(false); ?>
 						</div>
 					</div>
 				</div>
@@ -123,6 +62,71 @@ use yii\widgets\ActiveForm;
 					</div>
 				</div>
 			</div>
+			<div class="row case-edit-formwidth">
+				<div class="col-xs-6">
+					<div class="row">
+						<div class="col-xs-3 text-right p-t-5 p-r-0">
+							<b>标题：</b>
+						</div>
+						<div class="col-xs-9">
+							<?= $form->field($model, "article")->textInput()->label(false); ?>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row case-edit-formwidth">
+				<div class="col-xs-6">
+					<div class="row">
+						<div class="col-xs-3 text-right p-t-5 p-r-0">
+							<b>图片：</b>
+						</div>
+						<div class="col-xs-9">
+							<?php if($model->img): ?>
+								<img src="/img/uploads/<?= $model->img; ?>" >
+								<p></p>
+							<?php endif; ?>
+							<?= $form->field($model, "img")->fileInput()->label(false); ?>
+							<p class="p-t-5 m-b-0"><small class="color-red">图片大小不超过2M，支持jpg.png.gif格式</small></p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row case-edit-formwidth">
+				<div class="col-xs-12">
+					<div class="row">
+						<div class="col-xs-3 text-right p-t-5 p-r-0">
+							<b>内容：</b>
+						</div>
+						<div class="col-xs-10">
+							<?= $form->field($model, "content")->textarea(['id' => 'editor_id'])->label(false); ?>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row case-edit-formwidth">
+				<div class="col-xs-6">
+					<div class="row">
+						<div class="col-xs-3 text-right p-t-5 p-r-0">
+							<b>视频链接：</b>
+						</div>
+						<div class="col-xs-9">
+							<?= $form->field($model, "video")->textInput()->label(false); ?>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row case-edit-formwidth">
+				<div class="col-xs-6">
+					<div class="row">
+						<div class="col-xs-3 text-right p-t-5 p-r-0">
+							<b>点击量：</b>
+						</div>
+						<div class="col-xs-9">
+							<?= $form->field($model, "num")->textInput()->label(false); ?>
+						</div>
+					</div>
+				</div>
+			</div>
 			<hr />
 			<div class="row text-center">
 				<?= Html::submitButton("保存", ['class' => 'btn btn-blue btn-lg p-l-20 p-r-20']); ?>
@@ -131,3 +135,10 @@ use yii\widgets\ActiveForm;
 		<?php ActiveForm::end(); ?>
 	</div>
 </div>
+<script charset="utf-8" src="/kingeditor/kindeditor-all.js"></script>
+<script charset="utf-8" src="/kingeditor/lang/zh-CN.js"></script>
+<script>
+	KindEditor.ready(function(K) {
+		window.editor = K.create('#editor_id');
+	});
+</script>

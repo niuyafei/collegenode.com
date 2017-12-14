@@ -128,7 +128,9 @@
     </svg>
     <div class="container">
         <h1 class="text-center color-white" style="font-size: 38px;">Quiénes somos</h1>
-        <p class="m-t-40 color-graywhite">CollegeNode, also known as American Learning Education Exchange Organization, is a education organizition with focus on American higher education research and international education exchange. The company's goal is to provide the most accurate data on American universities for international students. Company founder Dan Ye has been featured on many international media outlets, including ABC, CNN and CCTV of China, as education expert.</p>
+        <p class="m-t-40 color-graywhite">
+            CollegeNode, también conocido como American Learning Education Exchange Organization, es una organización educativa con enfoque en la investigación de educación superior estadounidense y el intercambio de educación internacional. El objetivo de la empresa es proporcionar la información más precisa sobre las universidades estadounidenses para los estudiantes internacionales. El fundador de la compañía, Dan Ye, ha sido presentado en muchos medios de comunicación internacionales, incluyendo ABC, CNN y CCTV de China, como experto en educación.
+        </p>
         <div class="col-xs-12 text-center m-t-20 m-b-40">
             <a href="/SPANISH/esp_about.html" class="btn btn-primary btn-lg">Saber más</a>
         </div>

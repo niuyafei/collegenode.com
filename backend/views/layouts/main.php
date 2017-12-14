@@ -52,7 +52,10 @@ AppAsset::register($this);
     <div class="col-xs-2">
         <ul class="list-group m-b-0 admin-cont-nav">
             <li class="list-group-item text-center">
-                <a href="/site/index" class="focus">Articles&Videos</a>
+                <a href="/site/index?language=1" class="<?= $this->title == 'English' ? 'focus' : ''; ?>">英语</a>
+            </li>
+            <li class="list-group-item text-center">
+                <a href="/site/index?language=2" class="<?= $this->title == 'Spanish' ? 'focus' : ''; ?>">西班牙语</a>
             </li>
         </ul>
     </div>

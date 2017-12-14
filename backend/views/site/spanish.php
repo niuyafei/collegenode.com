@@ -5,7 +5,7 @@
 use yii\widgets\LinkPager;
 use yii\helpers\Html;
 
-$this->title = 'English';
+$this->title = 'Spanish';
 ?>
 <div class="col-xs-10">
     <h4 class="color-blue">文章和视频 <small class="pull-right p-t-5 p-r-15"><a href="/articles/add">+ 增加</a></small></h4>
@@ -35,6 +35,7 @@ $this->title = 'English';
                             <a href="/articles/update?id=<?= $value['id']; ?>">编辑</a>
                             <span class="p-l-5 p-r-5 color-lightgray"> | </span>
                                 <?= Html::submitButton("删除", ['class' => 'color-red btn btn-link']); ?>
+<!--                            <a href="/articles/delete?id=--><?////= $value['id']; ?><!--" class="color-red">删除</a>-->
                             <?= Html::endForm(); ?>
                         </td>
                     </tr>

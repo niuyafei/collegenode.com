@@ -104,11 +104,16 @@
 			<hr />
 			<?php if($data['type'] == 1): ?>
 				<!-- 文章 -->
-				<?php foreach(explode("。", $data['content']) as $value): ?>
-					<p style="text-indent: 25px;"><?= $value != '' ? $value . "。" : "" ?></p>
-				<?php endforeach; ?>
+				<p style="text-indent: 25px;"><?= $data['content']; ?></p>
 			<?php else: ?>
 				<!-- 视频 -->
+				<div style="text-align:center;">
+					<?php
+					$video = explode("/", $data['video']);
+					$video = end($video);
+					?>
+					<iframe id="vzvd-2924134" name="vzvd-2924134" title="video player" class="video-player" type="text/html" width="576" height="324" frameborder="0" allowFullScreen allowTransparency="true" mozallowfullscreen webkitAllowFullScreen src="//view.vzaar.com/<?= $video; ?>/player"></iframe>
+				</div>
 			<?php endif; ?>
 		</div>
 

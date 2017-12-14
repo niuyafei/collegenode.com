@@ -35,7 +35,7 @@ class Articles extends \yii\db\ActiveRecord
     public function rules()
     {
         return [
-            [['article', 'img', 'created_at'], 'required', 'message' => '{attribute}不能为空'],
+            [['article', 'created_at'], 'required', 'message' => '{attribute}不能为空'],
             [['content', 'type', 'language'], 'string'],
             [['status', 'sort', 'num'], 'integer'],
             [['created_at', 'updated_at'], 'safe'],

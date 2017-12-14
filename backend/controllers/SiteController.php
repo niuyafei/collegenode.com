@@ -62,7 +62,8 @@ class SiteController extends Controller
      */
     public function actionIndex()
     {
-        $query = Articles::find();
+        $language = Yii::$app->request->get("language", 1);
+        $query = Articles::find()->where(['language' => $language]);
         $pages = new Pagination([
             'totalCount' => $query->count(),
             'pageSize' => 20
@@ -71,10 +72,17 @@ class SiteController extends Controller
             ->limit($pages->limit)
             ->orderBy("sort ASC")->all();
 
-        return $this->render('index', [
-            'data' => $data,
-            'pages' => $pages
-        ]);
+        if($language == 1){
+            return $this->render('index', [
+                'data' => $data,
+                'pages' => $pages
+            ]);
+        }else{
+            return $this->render('spanish', [
+                'data' => $data,
+                'pages' => $pages
+            ]);
+        }
     }
 
     /**
