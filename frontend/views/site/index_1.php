@@ -45,33 +45,23 @@
             </li>
             <li class="dropdown">
                 <a id="dLabel" class="nav-menu" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    <small>CollegeNode English</small>
-                    <span class="caret"></span>
+                    <small onclick="window.location.href='http://collegenode.cn/product.html'" style="cursor: pointer;">Panama</small>
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="dLabel">
-                    <li>
-                        <a href="http://collegenode.cn/product.html" class="color-blue">Panama</a>
+                    <li class="text-right">
+                        <a href="/site/index?language=EN" class="color-blue">CollegeNode English</a>
                     </li>
-                    <li>
+                    <li class="text-right">
                         <a href="/site/index?language=SPANISH" class="color-blue">CollegeNode Spanish</a>
                     </li>
-                    <li>
-                        <a href="http://collegenode.com" class="color-blue">CollegeNode Chinese</a>
+                    <li class="text-right">
+                        <a href="http://www.collegenode.com" class="color-blue">CollegeNode Chinese</a>
                     </li>
                 </ul>
             </li>
-            <!--<li>
-				<a href="../mingxiao-dongtai.html" class="nav-menu"><small>名校动态</small></a>
-			</li>-->
             <li>
                 <a href="/EN/about.html" class="nav-menu"><small>About us</small></a>
             </li>
-            <!--<li>
-				<a class="btn" href="../#" style="border: 1px solid #FFFFFF; padding: 5px 20px; border-radius: 25px; margin-top: 15px; margin-left: 30px; margin-right: 15px;">
-					<small>简体中文</small>
-					<span class="caret"></span>
-				</a>
-			</li>-->
         </ul>
     </div>
 </nav>
@@ -121,10 +111,24 @@
         <a class="btn btn-primary btn-lg" href="/articles/index?language=EN">View more articles and videos</a>
     </div>
 </div>
-<div class="index-about">
-    <svg class="divider" preserveaspectradio="none" viewBox="0 0 1080 46">
-        <polygon x="0" y="0" points="0 0 1080 0 1080 46"></polygon>
-    </svg>
+
+<div class="index-about" style="margin-top: 40px; background-image: url(/img/bg.jpg), -webkit-gradient(linear, right top, left bottom, from(#fff));">
+    <div class="container">
+        <div class="text-center">
+            <img src="/img/logo02.png" />
+        </div>
+        <h3 class="text-center color-white" style="font-size: 38px;">3-Week Institute for Social Innovation</h3>
+        <p class="m-t-40 color-graywhite">In collaboration with ThinkImpact and MIT, our award-winning curriculum guides students through a creative learning process focused on global entrepreneurship, giving them clear actions to take and provoking thoughtful reactions and insights along the way. The ultimate goal of the programs is to learn through collaboration. To accomplish this, participants build a team with locals, university students, and professionals to formulate ideas on how to improve quality of life in the local community. The program is designed to give student a perspective on global social challenges while engage in peers and small communities in the developing world. Students will be staying in dormitories at Boston's MIT and have the chance to interact and participate in pre-departure activities. In Panama, students will work in teams of 6, with a college or graduate student team leading their projects.</p>
+        <div class="col-xs-12 text-center m-t-20 m-b-40">
+            <a href="/EN/thinkimpact.html" class="btn btn-primary btn-lg">Click here for more information</a>
+        </div>
+    </div>
+    <!--<svg class="divider" preserveaspectradio="none" viewBox="0 0 1080 46">
+		<polygon x="0" y="0" points="0 0 1080 46 0 46"></polygon>
+	</svg>-->
+</div>
+
+<div class="index-about" style="margin-top: 25px;">
     <div class="container">
         <h1 class="text-center color-white" style="font-size: 38px;">About us</h1>
         <p class="m-t-40 color-graywhite">CollegeNode, also known as American Learning Education Exchange Organization, is a education organizition with focus on American higher education research and international education exchange. The company's goal is to provide the most accurate data on American universities for international students. Company founder Dan Ye has been featured on many international media outlets, including ABC, CNN and CCTV of China, as education expert.</p>
@@ -132,9 +136,6 @@
             <a href="/EN/about.html" class="btn btn-primary btn-lg">Learn more</a>
         </div>
     </div>
-    <svg class="divider" preserveaspectradio="none" viewBox="0 0 1080 46">
-        <polygon x="0" y="0" points="0 0 1080 46 0 46"></polygon>
-    </svg>
 </div>
 <div class="text-center">
     <div class="container">

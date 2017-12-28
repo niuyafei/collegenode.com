@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+		<title>collegenode</title>
+
+		<!-- Bootstrap -->
+		<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+			
+     
+    <![endif]-->
+		<script type="text/javascript">
+			window.onload = function() {
+				$(document).ready(function() {
+					$("a.scroll-to").click(function() {
+						$("html, body").animate({
+							scrollTop: $($(this).attr("href")).offset().top + "px"
+						}, {
+							duration: 700,
+							easing: "swing"
+						});
+						return false;
+					});
+				});
+
+				var ul = document.getElementById("ul");
+				var timer = 0
+				ul.innerHTML += ul.innerHTML;
+				ul.style.width = ul.offsetWidth * 4 + 'px';
+				//如果ul.offsetLeft滚动到自身宽度一半时，让它的left等于0
+				ul.onmouseout = function() {
+					clearInterval(timer);
+					StartMove();
+				}
+				ul.onmouseover = function() {
+					clearInterval(timer);
+				}
+
+				function StartMove() {
+					timer = setInterval(function() {
+						//  0    >      -1008
+						//  -1008   <      -1008
+						if(ul.offsetLeft <= -ul.offsetWidth / 4) {
+							ul.style.left = 0;
+						}
+						ul.style.left = ul.offsetLeft - 5 + "px";
+					}, 30)
+				}
+				StartMove();
+			}
+		</script>
+	</head>
+
+	<body>
+		<nav class="navbar navbar-default navbar-collegenode" role="navigation">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collegenode-collapse">
+					<span class="sr-only">Toggle navigation</span> 
+					<span class="icon-bar"></span> 
+					<span class="icon-bar"></span> 
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="/site/index?language=SPANISH"><img src="img/logo.png"></a>
+			</div>
+			<div class="collapse navbar-collapse navbar-collegenode-collapse">
+				<ul class="nav navbar-nav navbar-right">
+					<li>
+						<a href="/site/index.php?language=SPANISH" class="nav-menu"><small>Inicio</small></a>
+					</li>
+					<li>
+						<a href="esp_bangdan_meiguo.html" class="nav-menu"><small>CollegeNode Rankings</small></a>
+					</li>
+					<li class="dropdown">
+						<a id="dLabel" class="nav-menu" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							<small>CollegeNode Spanish</small>
+							<span class="caret"></span>
+						</a>
+						<ul class="dropdown-menu" aria-labelledby="dLabel">
+							<li class="text-right">
+								<a href="http://collegenode.cn/product.html" class="color-blue">Panama</a>
+							</li>
+							<li class="text-right">
+								<a href="/site/index.php?language=EN" class="color-blue">CollegeNode English</a>
+							</li>
+							<li class="text-right">
+								<a href="http://www.collegenode.com" class="color-blue">CollegeNode Chinese</a>
+							</li>
+						</ul>
+					</li>
+					<!--<li>
+						<a href="mingxiao-dongtai.html" class="nav-menu"><small>名校动态</small></a>
+					</li>-->
+					<li>
+						<a href="esp_about.html" class="nav-menu"><small>Quiénes somos</small></a>
+					</li>
+					<!--<li>
+						<a class="btn" href="#" style="border: 1px solid #FFFFFF; padding: 5px 20px; border-radius: 25px; margin-top: 15px; margin-left: 30px; margin-right: 15px;">
+							<small>简体中文</small>		
+							<span class="caret"></span>
+						</a>
+					</li>-->
+				</ul>
+			</div>
+		</nav>
+
+		<div class="container">
+			<div class="row m-t-40" style="padding: 0 10px;">
+				<h1 class="text-center color-blue">ThinkImpact Panamá</h1>
+				<h3 class="text-center">Instituto de Innovación Social de 3 Semanas</h3>
+				<div class="container product-cont" style="width: 750px; margin-top: 40px;">
+					<h1 class="text-center">Foto &amp; Video</h1>
+					<div class="video-outline m-t-50">
+						<div id="pic">
+							<ul id="ul">
+								<li><img src="img/a.jpg" data-toggle="modal" data-target="#img01" class="cursor-pointer"></li>
+								<li><img src="img/b.jpg" data-toggle="modal" data-target="#img02" class="cursor-pointer"></li>
+								<li><img src="img/c.jpg" data-toggle="modal" data-target="#img03" class="cursor-pointer"></li>
+								<li><img src="img/d.jpg" data-toggle="modal" data-target="#img04" class="cursor-pointer"></li>
+
+								<li><img src="img/a.jpg" data-toggle="modal" data-target="#img01" class="cursor-pointer"></li>
+								<li><img src="img/b.jpg" data-toggle="modal" data-target="#img02" class="cursor-pointer"></li>
+								<li><img src="img/c.jpg" data-toggle="modal" data-target="#img03" class="cursor-pointer"></li>
+								<li><img src="img/d.jpg" data-toggle="modal" data-target="#img04" class="cursor-pointer"></li>
+							</ul>
+						</div>
+					</div>
+
+					<div class="carousel-inner m-t-20" role="listbox" style="border-radius: 10px;">
+						<div class="item active text-center" id="plv_0765a153dbd3d6468252403a6187a3d0_0" controls="" style="border-radius: 10px;"><object type="application/x-shockwave-flash" data="//player.polyv.net/videos/player.swf" id="0765a153dbd3d6468252403a6187a3d0_0" width="100%" height="450" class="polyvFlashObject"><param name="allowScriptAccess" value="always"><param name="allowFullScreen" value="true"><param name="quality" value="high"><param name="bgcolor" value="#ffffff"><param name="wmode" value="transparent"><param name="flashvars" value="vid=0765a153dbd3d6468252403a6187a3d0_0&amp;start=-1&amp;end=-1&amp;"></object></div>
+					</div>
+
+					<!-- 	<video src="media/ThinkImpact Panama.mp4" height="635px" controls="" 
+		style="border-radius:10px;" /></video> -->
+				</div>
+			</div>
+			<div class="container product-cont contact-form-wrap">
+				<h1 class="text-center">Precio &amp; Fecha</h1>
+				<div class="col-xs-12">
+					<div class="text-center product-info">
+						<h2 class="link-style"><span style="border-color: #5fa9d6;">$6500</span></h2>
+						<h2 class="text-center m-t-40">del 21 de julio al 12 de agosto</h2>
+					</div>
+				</div>
+			</div>
+			<div class="container product-cont contact-form-wrap">
+				<h1 class="text-center">Proyecto Potencial</h1>
+				<div class="col-xs-6">
+					<div class="text-center product-info">
+						<img src="img/Potential_Project_1.jpg" width="100%"/>
+						<h2 class="text-center m-t-20">Mermelada de Mango</h2>
+					</div>
+				</div>
+				<div class="col-xs-6">
+					<div class="text-center product-info">
+						<img src="img/Potential_Project_2.jpg" width="100%"/>
+						<h2 class="text-center m-t-20">Companía de Tintes Renovables </h2>
+					</div>
+				</div>
+			</div>
+			<div class="row index-news-row" style="padding: 0 10px;">
+				<div class="row contact-form-wrap">
+					<h1 class="text-center">Contáctenos</h1>
+					<div class="col-sm-6 text-center m-b-10 m-t-20">
+						<img src="img/erwema.jpeg" width="100" height="100" />
+						<h3>Wechat：DanWashington</h3>
+					</div>
+					<div class="col-sm-6 text-center m-b-10 m-t-20">
+						<img src="img/email.png" width="100" />
+						<h3>info@collegenode.cn</h3>
+					</div>
+					<div class="col-sm-12 color-gray text-center m-t-20">
+						<hr />
+						<p>1133 15th St. NW 12th Floor Washington, DC 20005</p>
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+		<footer class="text-center m-t-40">
+			<small>Copyright © 2014-2017 American Learning Education Exchange Organization Inc.</small>
+		</footer>
+		<div class="modal" id="img01">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<img src="img/a-big.jpg" width="100%">
+				</div>
+				<!-- /.modal-content -->
+			</div>
+			<!-- /.modal-dialog -->
+		</div>
+		<div class="modal" id="img02">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<img src="img/b-big.jpg" width="100%">
+				</div>
+				<!-- /.modal-content -->
+			</div>
+			<!-- /.modal-dialog -->
+		</div>
+		<div class="modal" id="img03">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<img src="img/c-big.jpg" width="100%">
+				</div>
+				<!-- /.modal-content -->
+			</div>
+			<!-- /.modal-dialog -->
+		</div>
+		<div class="modal" id="img04">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<img src="img/d-big.jpg" width="100%">
+				</div>
+				<!-- /.modal-content -->
+			</div>
+			<!-- /.modal-dialog -->
+		</div>
+		<script src="js/jquery-2.1.3.min.js" type="text/javascript" charset="utf-8"></script>
+		<!-- Include all compiled plugins (below), or include individual files as needed -->
+		<script src="bootstrap/js/bootstrap.min.js"></script>
+		<style type="text/css">
+			.main-header {
+				padding: 1em 0 10%;
+				margin: 0;
+			}
+			
+			.main-header .headline {
+				max-width: 100%;
+				max-width: 46em;
+				margin: auto;
+				padding-top: 5%;
+			}
+			
+			.main-header .headline img {
+				border-radius: 8px;
+				box-shadow: 0px 0px 10px 3px rgba(50, 50, 50, 0.1);
+			}
+			
+			.contact-form-wrap {
+				background-color: #fff;
+				border-radius: 8px;
+				border: 1px solid #e9ecee;
+				margin: 30px auto;
+				max-width: 750px;
+				padding: 20px;
+			}
+			
+			#pic {
+				width: 100%;
+				height: 168px;
+				position: relative;
+				margin: 0 auto;
+				overflow: hidden;
+				padding: 0;
+				border-radius: 6px;
+			}
+			
+			#ul {
+				width: 1088px;
+				height: 168px;
+				position: absolute;
+				left: 0;
+				top: 0;
+				padding: 0;
+			}
+			
+			#ul li {
+				float: left;
+				margin: 10px;
+			}
+			
+			#pic img {
+				width: 252px;
+				height: 168px;
+			}
+			
+			.product-cont {
+				margin-top: 20px;
+				padding: 20px;
+				background-color: #fff;
+				/*-webkit-box-shadow: 0 18px 30px rgba(0, 0, 0, 0.05);
+				box-shadow: 0 18px 30px rgba(0, 0, 0, 0.05);*/
+				border: 1px solid #EEEEEE;
+				border-radius: 6px;
+				margin-bottom: 20px;
+			}
+			
+			.product-cont video {
+				border-radius: 10px;
+				margin-top: 20px;
+			}
+			
+			.product-info {
+				padding: 20px;
+			}
+			
+			.product-info h2 {
+				font-size: 24px;
+			}
+			
+			.link-style {
+				color: #5fa9d6;
+				text-decoration: none;
+			}
+			
+			.product-info span {
+				padding: 8px 12px;
+				border: 1px solid #5fa9d6;
+				border-radius: 4px;
+			}
+		</style>
+
+	</body>
+
+</html>                     

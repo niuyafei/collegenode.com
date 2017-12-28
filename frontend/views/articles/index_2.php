@@ -146,7 +146,7 @@ use yii\widgets\LinkPager;
 				</div>
 			</div>
 			<div class="modal-footer">
-				<button type="button" class="btn btn-primary" data-dismiss="modal">Cerca</button>
+				<button type="button" class="btn btn-primary" data-dismiss="modal">Cierra</button>
 			</div>
 		</div>
 	</div>

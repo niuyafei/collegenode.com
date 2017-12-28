@@ -678,3 +678,103 @@ ul {
 	color: #489ed2;
 	background-color: transparent;
 }
+
+
+/**新添加**/
+
+.banner {
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+}
+
+.img img {
+	width: 100%;
+}
+
+.banner>.filter {
+	position: absolute;
+	z-index: 1;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	opacity: .65;
+	background-color: #222;
+}
+
+.banner .container {
+	position: absolute;
+	z-index: 2;
+	top: 10%;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.container .middle {
+	margin: auto;
+	width: 100%;
+}
+
+.middle .biaoqian {
+	width: 790px;
+	margin: auto;
+	height: 150px;
+	margin-top: 30px;
+}
+
+.container .middle ul li {
+	position: relative;
+	width: 110px;
+	height: 110px;
+	border-radius: 50%;
+	border: 2px solid #fff;
+	text-align: center;
+	color: #fff;
+	float: left;
+	margin: 20px;
+	vertical-align: middle;
+	line-height: 110px;
+	font-size: 16px;
+}
+
+.middle .biaoqian>.second {
+	line-height: 24px;
+	padding-top: 30px;
+}
+
+.container .bottom {
+	color: #fff;
+	text-align: left;
+	font-size: 16px;
+	margin-top: 50px;
+}
+
+.bottom-icon {
+	margin-top: 100px;
+}
+
+.btn-style {
+	font-size: 24px;
+	padding: 10px 50px;
+}
+
+.btn-style {
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 18px;
+	font-weight: normal;
+	border-radius: 4px;
+	padding: 10px 30px;
+	background: #2d90ff;
+	color: #fff;
+}
+
+.nav>li:hover .dropdown-menu {
+	display: block;
+}

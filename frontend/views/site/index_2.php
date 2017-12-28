@@ -38,40 +38,30 @@
     <div class="collapse navbar-collapse navbar-collegenode-collapse">
         <ul class="nav navbar-nav navbar-right">
             <li>
-                <a href="/site/index?language=SPANISH" class="nav-menu"><small>Inicio</small></a>
+                <a href="/site/index?language=SPANISH" class="nav-menu"><small>Home</small></a>
             </li>
             <li>
-                <a href="/SPANISH/esp_bangdan_meiguo.html" class="nav-menu"><small>CollegeNode Rankings</small></a>
+                <a href="/SPANISH/bangdan_meiguo.html" class="nav-menu"><small>CollegeNode Rankings</small></a>
             </li>
             <li class="dropdown">
                 <a id="dLabel" class="nav-menu" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    <small>CollegeNode Spanish</small>
-                    <span class="caret"></span>
+                    <small onclick="window.location.href='http://collegenode.cn/product.html'" style="cursor: pointer;">Panama</small>
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="dLabel">
                     <li class="text-right">
-                        <a href="http://collegenode.cn/product.html" class="color-blue">Panama</a>
+                        <a href="/site/index?language=EN" class="color-blue">CollegeNode English</a>
                     </li>
                     <li class="text-right">
-                        <a href="/site/index?language=EN" class="color-blue">CollegeNode English</a>
+                        <a href="/site/index?language=SPANISH" class="color-blue">CollegeNode Spanish</a>
                     </li>
                     <li class="text-right">
                         <a href="http://www.collegenode.com" class="color-blue">CollegeNode Chinese</a>
                     </li>
                 </ul>
             </li>
-            <!--<li>
-				<a href="mingxiao-dongtai.html" class="nav-menu"><small>名校动态</small></a>
-			</li>-->
             <li>
-                <a href="/SPANISH/esp_about.html" class="nav-menu"><small>Quiénes somos</small></a>
+                <a href="/SPANISH/about.html" class="nav-menu"><small>About us</small></a>
             </li>
-            <!--<li>
-				<a class="btn" href="#" style="border: 1px solid #FFFFFF; padding: 5px 20px; border-radius: 25px; margin-top: 15px; margin-left: 30px; margin-right: 15px;">
-					<small>简体中文</small>
-					<span class="caret"></span>
-				</a>
-			</li>-->
         </ul>
     </div>
 </nav>
@@ -93,9 +83,7 @@
     </div>
     <img src="/img/macbook.png">
 </div>
-<svg class="divider" preserveaspectradio="none" viewBox="0 0 1080 46">
-    <polygon x="0" y="0" points="0 46 1080 46 0 0"></polygon>
-</svg>
+
 <div class="container">
     <h1 class="text-center" style="font-size: 38px;">Artículos & Videos</h1>
     <div class="row index-news-row">
@@ -122,10 +110,24 @@
         <a href="/articles/index?language=SPANISH" class="btn btn-primary btn-lg">Ver más artículos y videos</a>
     </div>
 </div>
-<div class="index-about">
-    <svg class="divider" preserveaspectradio="none" viewBox="0 0 1080 46">
-        <polygon x="0" y="0" points="0 0 1080 0 1080 46"></polygon>
-    </svg>
+
+<div class="index-about" style="margin-top: 40px; background-image: url(/img/bg.jpg), -webkit-gradient(linear, right top, left bottom, from(#fff));">
+    <div class="container">
+        <div class="text-center">
+            <img src="/img/logo02.png" />
+        </div>
+        <h3 class="text-center color-white" style="font-size: 38px;">Instituto de Innovación Social de 3 Semanas</h3>
+        <p class="m-t-40 color-graywhite">En colaboración con ThinkImpact y MIT, nuestro plan de estudios galardonado guía a los estudiantes por un proceso de aprendizaje creativo. Centrado en el emprendimiento global, les brinda acciones claras, reacciones reflexivas e ideas innovadoras a lo largo del camino. El objetivo final de los programas es aprender a través de la colaboración. Para lograr esto, los participantes construyen un equipo con los residentes locales, los estudiantes universitarios y otros profesionales para formular ideas sobre cómo mejorar la calidad de vida en la comunidad local. El programa está diseñado para brindarle al estudiante una perspectiva sobre los desafíos sociales globales mientras que se involucre con los compañeros en las pequeñas comunidades del mundo en desarrollo. Los estudiantes se alojarán en los dormitorios en el MIT de Boston y tendrán la oportunidad de interactuarse y participarse en las actividades previas a la partida. En Panamá, los estudiantes trabajarán en equipos de 6 y sus proyectos serán liderados por un equipo de estudiantes universitarios o de posgrado.</p>
+        <div class="col-xs-12 text-center m-t-20 m-b-40">
+            <a href="/SPANISH/esp_thinkimpact.html" class="btn btn-primary btn-lg">Haz clic aquí para obtener más información</a>
+        </div>
+    </div>
+    <!--<svg class="divider" preserveaspectradio="none" viewBox="0 0 1080 46">
+		<polygon x="0" y="0" points="0 0 1080 46 0 46"></polygon>
+	</svg>-->
+</div>
+
+<div class="index-about" style="margin-top: 25px;">
     <div class="container">
         <h1 class="text-center color-white" style="font-size: 38px;">Quiénes somos</h1>
         <p class="m-t-40 color-graywhite">
@@ -135,9 +137,6 @@
             <a href="/SPANISH/esp_about.html" class="btn btn-primary btn-lg">Saber más</a>
         </div>
     </div>
-    <svg class="divider" preserveaspectradio="none" viewBox="0 0 1080 46">
-        <polygon x="0" y="0" points="0 0 1080 46 0 46"></polygon>
-    </svg>
 </div>
 <div class="text-center">
     <h1 class="text-center" style="font-size: 38px;">Aliado comercial</h1>
