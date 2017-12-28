@@ -2,6 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47f93f2e-3408-449a-b0a4-68a26d00b762" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/about.html" afterPath="$PROJECT_DIR$/frontend/web/EN/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bangdan_biyexinshui.html" afterPath="$PROJECT_DIR$/frontend/web/EN/bangdan_biyexinshui.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi.html" afterPath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_dilixue.html" afterPath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_dilixue.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_ligongke.html" afterPath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_ligongke.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_shehuikexue.html" afterPath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_shehuikexue.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_shengwuxue.html" afterPath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_shengwuxue.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_shuxuediannao.html" afterPath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_shuxuediannao.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_wenxue.html" afterPath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_wenxue.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_xinlixue.html" afterPath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_xinlixue.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_yishu.html" afterPath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_yishu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bangdan_meiguo.html" afterPath="$PROJECT_DIR$/frontend/web/EN/bangdan_meiguo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/defail_pay.html" afterPath="$PROJECT_DIR$/frontend/web/EN/defail_pay.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_about.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_about.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_biyexinshui.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_biyexinshui.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi.html" />
@@ -14,13 +27,26 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_xinlixue.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_xinlixue.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_yishu.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_yishu.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_meiguo.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_meiguo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_defail_pay.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_defail_pay.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_index.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_jisuanfangshi_biyexinshui.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_jisuanfangshi_biyexinshui.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_jisuanfangshi_boshi.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_jisuanfangshi_boshi.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_jisuanfangshi_meiguo.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_jisuanfangshi_meiguo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_mastercard_pay.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_mastercard_pay.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_news_detail.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_news_detail.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_news_list.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_news_list.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_thinkimpact.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_thinkimpact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_visa_pay.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_visa_pay.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/index.html" afterPath="$PROJECT_DIR$/frontend/web/EN/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/site/index_1.php" afterPath="$PROJECT_DIR$/frontend/views/site/index_1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/jisuanfangshi_biyexinshui.html" afterPath="$PROJECT_DIR$/frontend/web/EN/jisuanfangshi_biyexinshui.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/jisuanfangshi_boshi.html" afterPath="$PROJECT_DIR$/frontend/web/EN/jisuanfangshi_boshi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/jisuanfangshi_meiguo.html" afterPath="$PROJECT_DIR$/frontend/web/EN/jisuanfangshi_meiguo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/mastercard_pay.html" afterPath="$PROJECT_DIR$/frontend/web/EN/mastercard_pay.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/news_detail.html" afterPath="$PROJECT_DIR$/frontend/web/EN/news_detail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/news_list.html" afterPath="$PROJECT_DIR$/frontend/web/EN/news_list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/thinkimpact.html" afterPath="$PROJECT_DIR$/frontend/web/EN/thinkimpact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/visa_pay.html" afterPath="$PROJECT_DIR$/frontend/web/EN/visa_pay.html" />
     </list>
     <ignored path="collegenode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,41 +71,119 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index_2.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/views/site/index_2.php">
+      <file leaf-file-name="esp_defail_pay.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_defail_pay.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.0" vertical-offset="453" max-vertical-offset="2790">
-              <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
-              <folding />
+            <state vertical-scroll-proportion="-10.625" vertical-offset="555" max-vertical-offset="2085">
+              <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index_2.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/views/articles/index_2.php">
+      <file leaf-file-name="esp_jisuanfangshi_biyexinshui.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_jisuanfangshi_biyexinshui.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.25" vertical-offset="483" max-vertical-offset="2760">
-              <caret line="68" column="38" selection-start-line="68" selection-start-column="38" selection-end-line="68" selection-end-column="38" />
-              <folding />
+            <state vertical-scroll-proportion="-13.75" vertical-offset="480" max-vertical-offset="2280">
+              <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="view_2.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/views/articles/view_2.php">
+      <file leaf-file-name="esp_jisuanfangshi_boshi.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_jisuanfangshi_boshi.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.5" vertical-offset="438" max-vertical-offset="2055">
-              <caret line="67" column="38" selection-start-line="67" selection-start-column="38" selection-end-line="67" selection-end-column="38" />
-              <folding />
+            <state vertical-scroll-proportion="-11.875" vertical-offset="525" max-vertical-offset="2250">
+              <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="esp_about.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_about.html">
+      <file leaf-file-name="esp_jisuanfangshi_meiguo.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_jisuanfangshi_meiguo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33333334" vertical-offset="331" max-vertical-offset="2310">
-              <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+            <state vertical-scroll-proportion="-13.75" vertical-offset="480" max-vertical-offset="2295">
+              <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="esp_mastercard_pay.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_mastercard_pay.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.25" vertical-offset="420" max-vertical-offset="1830">
+              <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="esp_news_detail.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_news_detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.0" vertical-offset="585" max-vertical-offset="2010">
+              <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="esp_news_list.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_news_list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.25" vertical-offset="435" max-vertical-offset="3930">
+              <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="esp_thinkimpact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_thinkimpact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.125" vertical-offset="1110" max-vertical-offset="4920">
+              <caret line="95" column="25" selection-start-line="95" selection-start-column="25" selection-end-line="95" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="esp_visa_pay.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_visa_pay.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.75" vertical-offset="435" max-vertical-offset="1830">
+              <caret line="51" column="47" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="47" />
+              <folding>
+                <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index_1.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/frontend/views/site/index_1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4072165" vertical-offset="1023" max-vertical-offset="2715">
+              <caret line="84" column="6" selection-start-line="84" selection-start-column="6" selection-end-line="84" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -93,34 +197,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/common/config/main-local.php" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/backend/views/site/login.php" />
-        <option value="$PROJECT_DIR$/frontend/web/css/style.css" />
-        <option value="$PROJECT_DIR$/frontend/web/SPANISH/index.html" />
-        <option value="$PROJECT_DIR$/backend/web/index.php" />
-        <option value="$PROJECT_DIR$/frontend/web/index.php" />
-        <option value="$PROJECT_DIR$/frontend/views/site/index.php" />
-        <option value="$PROJECT_DIR$/frontend/controllers/SiteController.php" />
-        <option value="$PROJECT_DIR$/frontend/runtime/logs/app.log" />
-        <option value="$PROJECT_DIR$/frontend/controllers/ArticlesController.php" />
-        <option value="$PROJECT_DIR$/backend/views/layouts/main.php" />
-        <option value="$PROJECT_DIR$/backend/controllers/SiteController.php" />
-        <option value="$PROJECT_DIR$/backend/views/site/index.php" />
-        <option value="$PROJECT_DIR$/backend/views/site/spanish.php" />
-        <option value="$PROJECT_DIR$/common/models/Articles.php" />
-        <option value="$PROJECT_DIR$/backend/controllers/ArticlesController.php" />
-        <option value="$PROJECT_DIR$/frontend/web/SPANISH/esp_index.html" />
-        <option value="$PROJECT_DIR$/backend/views/articles/add.php" />
         <option value="$PROJECT_DIR$/backend/views/articles/update.php" />
-        <option value="$PROJECT_DIR$/frontend/web/EN/about.html" />
-        <option value="$PROJECT_DIR$/frontend/views/site/index_1.php" />
         <option value="$PROJECT_DIR$/frontend/views/articles/index_1.php" />
         <option value="$PROJECT_DIR$/frontend/views/articles/view_1.php" />
         <option value="$PROJECT_DIR$/frontend/views/site/index_2.php" />
         <option value="$PROJECT_DIR$/frontend/views/articles/index_2.php" />
         <option value="$PROJECT_DIR$/frontend/views/articles/view_2.php" />
+        <option value="$PROJECT_DIR$/frontend/web/EN/about.html" />
+        <option value="$PROJECT_DIR$/frontend/web/EN/bangdan_biyexinshui.html" />
+        <option value="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi.html" />
+        <option value="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_dilixue.html" />
+        <option value="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_ligongke.html" />
+        <option value="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_shehuikexue.html" />
+        <option value="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_shengwuxue.html" />
+        <option value="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_shuxuediannao.html" />
+        <option value="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_wenxue.html" />
+        <option value="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_xinlixue.html" />
+        <option value="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_yishu.html" />
+        <option value="$PROJECT_DIR$/frontend/web/EN/bangdan_meiguo.html" />
+        <option value="$PROJECT_DIR$/frontend/web/EN/defail_pay.html" />
+        <option value="$PROJECT_DIR$/frontend/web/EN/index.html" />
+        <option value="$PROJECT_DIR$/frontend/web/EN/jisuanfangshi_biyexinshui.html" />
+        <option value="$PROJECT_DIR$/frontend/web/EN/jisuanfangshi_boshi.html" />
+        <option value="$PROJECT_DIR$/frontend/web/EN/jisuanfangshi_meiguo.html" />
+        <option value="$PROJECT_DIR$/frontend/web/EN/mastercard_pay.html" />
+        <option value="$PROJECT_DIR$/frontend/web/EN/news_detail.html" />
+        <option value="$PROJECT_DIR$/frontend/web/EN/news_list.html" />
+        <option value="$PROJECT_DIR$/frontend/web/EN/thinkimpact.html" />
+        <option value="$PROJECT_DIR$/frontend/web/EN/visa_pay.html" />
         <option value="$PROJECT_DIR$/frontend/web/SPANISH/esp_about.html" />
+        <option value="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_biyexinshui.html" />
+        <option value="$PROJECT_DIR$/frontend/web/SPANISH/esp_index.html" />
+        <option value="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi.html" />
+        <option value="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_dilixue.html" />
+        <option value="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_ligongke.html" />
+        <option value="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_shehuikexue.html" />
+        <option value="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_shengwuxue.html" />
+        <option value="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_shuxuediannao.html" />
+        <option value="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_wenxue.html" />
+        <option value="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_xinlixue.html" />
+        <option value="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_yishu.html" />
+        <option value="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_meiguo.html" />
+        <option value="$PROJECT_DIR$/frontend/web/SPANISH/esp_defail_pay.html" />
+        <option value="$PROJECT_DIR$/frontend/web/SPANISH/esp_jisuanfangshi_biyexinshui.html" />
+        <option value="$PROJECT_DIR$/frontend/web/SPANISH/esp_jisuanfangshi_boshi.html" />
+        <option value="$PROJECT_DIR$/frontend/web/SPANISH/esp_jisuanfangshi_meiguo.html" />
+        <option value="$PROJECT_DIR$/frontend/web/SPANISH/esp_mastercard_pay.html" />
+        <option value="$PROJECT_DIR$/frontend/web/SPANISH/esp_news_detail.html" />
+        <option value="$PROJECT_DIR$/frontend/web/SPANISH/esp_news_list.html" />
+        <option value="$PROJECT_DIR$/frontend/web/SPANISH/esp_thinkimpact.html" />
+        <option value="$PROJECT_DIR$/frontend/web/SPANISH/esp_visa_pay.html" />
+        <option value="$PROJECT_DIR$/frontend/views/site/index_1.php" />
       </list>
     </option>
   </component>
@@ -203,7 +330,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -221,11 +352,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SPANISH" />
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -336,300 +463,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/frontend/views/articles/index_2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1425" max-vertical-offset="2985">
-          <caret line="106" column="158" selection-start-line="106" selection-start-column="158" selection-end-line="106" selection-end-column="158" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/views/articles/view_1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1280" max-vertical-offset="2295">
-          <caret line="113" column="45" selection-start-line="113" selection-start-column="45" selection-end-line="113" selection-end-column="45" />
-          <folding>
-            <element signature="e#6#91#0#PHP" expanded="true" />
-            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/views/site/index_2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1545" max-vertical-offset="2775">
-          <caret line="114" column="112" selection-start-line="114" selection-start-column="112" selection-end-line="114" selection-end-column="112" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="604">
-          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/web/bootstrap/js/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="32340">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/web/css/bootstrapDatepickr-1.0.0.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1986755" vertical-offset="0" max-vertical-offset="810">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/web/css/site.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1890">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/web/js/backtop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42218542" vertical-offset="0" max-vertical-offset="604">
-          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/views/site/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21896552" vertical-offset="473" max-vertical-offset="1515">
-          <caret line="41" column="54" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_4.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34655172" vertical-offset="11379" max-vertical-offset="16425">
-          <caret line="772" column="9" selection-start-line="772" selection-start-column="9" selection-end-line="772" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/web/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.02586207" vertical-offset="0" max-vertical-offset="580">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/web/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.02586207" vertical-offset="0" max-vertical-offset="580">
-          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/views/layouts/main.php.bak">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3228477" vertical-offset="510" max-vertical-offset="1290">
-          <caret line="47" column="48" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/web/img/uploads/201712110053221000.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/web/Request.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34655172" vertical-offset="8994" max-vertical-offset="21735">
-          <caret line="618" column="20" selection-start-line="618" selection-start-column="20" selection-end-line="618" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/views/site/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.4655173" vertical-offset="2780" max-vertical-offset="3885">
-          <caret line="90" column="59" selection-start-line="90" selection-start-column="59" selection-end-line="90" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/runtime/logs/app.log">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2003484" vertical-offset="41836" max-vertical-offset="170355">
-          <caret line="2835" column="50" selection-start-line="2835" selection-start-column="50" selection-end-line="2835" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/config/main-local.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38793105" vertical-offset="0" max-vertical-offset="580">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/config/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23275863" vertical-offset="0" max-vertical-offset="580">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/controllers/SiteController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.87068963" vertical-offset="695" max-vertical-offset="1890">
-          <caret line="80" column="41" selection-start-line="80" selection-start-column="41" selection-end-line="80" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/models/Articles.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7603448" vertical-offset="114" max-vertical-offset="1080">
-          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/views/layouts/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63448274" vertical-offset="472" max-vertical-offset="1395">
-          <caret line="57" column="45" selection-start-line="57" selection-start-column="45" selection-end-line="57" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/views/site/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5948276" vertical-offset="210" max-vertical-offset="825">
-          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/views/site/spanish.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.69827586" vertical-offset="15" max-vertical-offset="825">
-          <caret line="29" column="74" selection-start-line="29" selection-start-column="74" selection-end-line="29" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/controllers/ArticlesController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7155172" vertical-offset="440" max-vertical-offset="1335">
-          <caret line="62" column="35" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/views/articles/update.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49137932" vertical-offset="0" max-vertical-offset="2355">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/views/articles/add.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38793105" vertical-offset="0" max-vertical-offset="2235">
-          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/controllers/ArticlesController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6913793" vertical-offset="559" max-vertical-offset="1185">
-          <caret line="64" column="26" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/controllers/SiteController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60172415" vertical-offset="911" max-vertical-offset="3480">
-          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH_20171228/js/backtop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47029704" vertical-offset="0" max-vertical-offset="606">
-          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/web/EN_20171228/js/backtop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.465347" vertical-offset="10584" max-vertical-offset="11775">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/web/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.381187" vertical-offset="11139" max-vertical-offset="11775">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/web/EN/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.430693" vertical-offset="11169" max-vertical-offset="11775">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/web/EN/bootstrap/js/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="35520">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/bootstrap/js/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="35520">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_shehuikexue.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4575">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH_20171228/esp_about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.72164947" vertical-offset="420" max-vertical-offset="2310">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/web/EN/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334" vertical-offset="556" max-vertical-offset="2310">
-          <caret line="50" column="32" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/web/EN/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38659793" vertical-offset="225" max-vertical-offset="3660">
-          <caret line="30" column="99" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="99" />
           <folding />
         </state>
       </provider>
@@ -655,25 +492,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/views/site/index_1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.66494846" vertical-offset="603" max-vertical-offset="2760">
-          <caret line="66" column="6" selection-start-line="27" selection-start-column="0" selection-end-line="66" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/views/site/index_2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.0" vertical-offset="453" max-vertical-offset="2790">
-          <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/views/articles/index_2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-19.25" vertical-offset="483" max-vertical-offset="2760">
@@ -690,10 +508,458 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/EN/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.083333" vertical-offset="511" max-vertical-offset="2295">
+          <caret line="55" column="25" selection-start-line="40" selection-start-column="20" selection-end-line="55" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/EN/bangdan_biyexinshui.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.0" vertical-offset="450" max-vertical-offset="8505">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/EN/bangdan_boshi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.5" vertical-offset="390" max-vertical-offset="13800">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_dilixue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.0" vertical-offset="450" max-vertical-offset="4485">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_ligongke.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.875" vertical-offset="405" max-vertical-offset="4605">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_shehuikexue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.25" vertical-offset="540" max-vertical-offset="4560">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_shengwuxue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0" vertical-offset="570" max-vertical-offset="4560">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_shuxuediannao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.5" vertical-offset="510" max-vertical-offset="4560">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_wenxue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.375" vertical-offset="345" max-vertical-offset="4590">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_xinlixue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.875" vertical-offset="405" max-vertical-offset="4590">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_yishu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.125" vertical-offset="375" max-vertical-offset="4620">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/EN/bangdan_meiguo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.5" vertical-offset="390" max-vertical-offset="6675">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/EN/defail_pay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.5" vertical-offset="390" max-vertical-offset="2085">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/EN/visa_pay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6701031" vertical-offset="435" max-vertical-offset="1830">
+          <caret line="55" column="28" selection-start-line="55" selection-start-column="28" selection-end-line="55" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/EN/thinkimpact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7474227" vertical-offset="990" max-vertical-offset="4920">
+          <caret line="95" column="25" selection-start-line="95" selection-start-column="25" selection-end-line="95" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/EN/news_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6701031" vertical-offset="435" max-vertical-offset="3945">
+          <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/EN/news_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5927835" vertical-offset="480" max-vertical-offset="2010">
+          <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/EN/mastercard_pay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6443299" vertical-offset="435" max-vertical-offset="1830">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/EN/jisuanfangshi_meiguo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5412371" vertical-offset="495" max-vertical-offset="2115">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/EN/jisuanfangshi_boshi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46391752" vertical-offset="540" max-vertical-offset="2190">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/EN/jisuanfangshi_biyexinshui.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6185567" vertical-offset="450" max-vertical-offset="2265">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/EN/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5927835" vertical-offset="480" max-vertical-offset="3645">
+          <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/views/site/index_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.625" vertical-offset="453" max-vertical-offset="2790">
+          <caret line="60" column="17" selection-start-line="45" selection-start-column="12" selection-end-line="60" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334" vertical-offset="331" max-vertical-offset="2310">
-          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+        <state vertical-scroll-proportion="-17.458334" vertical-offset="406" max-vertical-offset="2295">
+          <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_biyexinshui.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.75" vertical-offset="480" max-vertical-offset="8505">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.125" vertical-offset="390" max-vertical-offset="3990">
+          <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.5" vertical-offset="510" max-vertical-offset="13905">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_dilixue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.375" vertical-offset="465" max-vertical-offset="4485">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_ligongke.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.375" vertical-offset="465" max-vertical-offset="4605">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_shehuikexue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.875" vertical-offset="405" max-vertical-offset="4560">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_shengwuxue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.125" vertical-offset="375" max-vertical-offset="4560">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_shuxuediannao.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.5" vertical-offset="390" max-vertical-offset="4560">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_wenxue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.75" vertical-offset="360" max-vertical-offset="4590">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_xinlixue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.875" vertical-offset="405" max-vertical-offset="4590">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_yishu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.75" vertical-offset="360" max-vertical-offset="4620">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_meiguo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.25" vertical-offset="420" max-vertical-offset="6675">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_defail_pay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.625" vertical-offset="555" max-vertical-offset="2085">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_jisuanfangshi_biyexinshui.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.75" vertical-offset="480" max-vertical-offset="2280">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_jisuanfangshi_boshi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.875" vertical-offset="525" max-vertical-offset="2250">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_jisuanfangshi_meiguo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.75" vertical-offset="480" max-vertical-offset="2295">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_mastercard_pay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.25" vertical-offset="420" max-vertical-offset="1830">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_news_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0" vertical-offset="585" max-vertical-offset="2010">
+          <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_news_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.25" vertical-offset="435" max-vertical-offset="3930">
+          <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_thinkimpact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.125" vertical-offset="1110" max-vertical-offset="4920">
+          <caret line="95" column="25" selection-start-line="95" selection-start-column="25" selection-end-line="95" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/SPANISH/esp_visa_pay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.75" vertical-offset="435" max-vertical-offset="1830">
+          <caret line="51" column="47" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="47" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/views/site/index_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4072165" vertical-offset="1023" max-vertical-offset="2715">
+          <caret line="84" column="6" selection-start-line="84" selection-start-column="6" selection-end-line="84" selection-end-column="6" />
           <folding />
         </state>
       </provider>

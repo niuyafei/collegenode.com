@@ -83,9 +83,6 @@
     </div>
     <img src="/img/macbook.png">
 </div>
-<svg class="divider" preserveaspectradio="none" viewBox="0 0 1080 46">
-    <polygon x="0" y="0" points="0 46 1080 46 0 0"></polygon>
-</svg>
 <div class="container">
     <h1 class="text-center" style="font-size: 38px;">Articles & Videos</h1>
     <div class="row index-news-row">
