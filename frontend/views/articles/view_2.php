@@ -46,7 +46,7 @@
 				<a href="/site/index?language=SPANISH" class="nav-menu"><small>Home</small></a>
 			</li>
 			<li>
-				<a href="/SPANISH/bangdan_meiguo.html" class="nav-menu"><small>CollegeNode Rankings</small></a>
+				<a href="/SPANISH/esp_bangdan_meiguo.html" class="nav-menu"><small>CollegeNode Rankings</small></a>
 			</li>
 			<li class="dropdown">
 				<a id="dLabel" class="nav-menu" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -65,7 +65,7 @@
 				</ul>
 			</li>
 			<li>
-				<a href="/SPANISH/about.html" class="nav-menu"><small>About us</small></a>
+				<a href="/SPANISH/esp_about.html" class="nav-menu"><small>About us</small></a>
 			</li>
 		</ul>
 	</div>
