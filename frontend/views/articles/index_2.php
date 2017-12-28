@@ -44,40 +44,30 @@ use yii\widgets\LinkPager;
 	<div class="collapse navbar-collapse navbar-collegenode-collapse">
 		<ul class="nav navbar-nav navbar-right">
 			<li>
-				<a href="/site/index?language=SPANISH" class="nav-menu"><small>Inicio</small></a>
+				<a href="/site/index?language=SPANISH" class="nav-menu"><small>Home</small></a>
 			</li>
 			<li>
-				<a href="/SPANISH/esp_bangdan_meiguo.html" class="nav-menu"><small>CollegeNode Rankings</small></a>
+				<a href="/SPANISH/bangdan_meiguo.html" class="nav-menu"><small>CollegeNode Rankings</small></a>
 			</li>
 			<li class="dropdown">
 				<a id="dLabel" class="nav-menu" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-					<small>CollegeNode Spanish</small>
-					<span class="caret"></span>
+					<small onclick="window.location.href='http://collegenode.cn/product.html'" style="cursor: pointer;">Panama</small>
 				</a>
 				<ul class="dropdown-menu" aria-labelledby="dLabel">
 					<li class="text-right">
-						<a href="http://collegenode.cn/product.html" class="color-blue">Panama</a>
+						<a href="/site/index?language=EN" class="color-blue">CollegeNode English</a>
 					</li>
 					<li class="text-right">
-						<a href="/site/index?language=EN" class="color-blue">CollegeNode English</a>
+						<a href="/site/index?language=SPANISH" class="color-blue">CollegeNode Spanish</a>
 					</li>
 					<li class="text-right">
 						<a href="http://www.collegenode.com" class="color-blue">CollegeNode Chinese</a>
 					</li>
 				</ul>
 			</li>
-			<!--<li>
-				<a href="mingxiao-dongtai.html" class="nav-menu"><small>名校动态</small></a>
-			</li>-->
 			<li>
-				<a href="/SPANISH/esp_about.html" class="nav-menu"><small>Quiénes somos</small></a>
+				<a href="/SPANISH/about.html" class="nav-menu"><small>About us</small></a>
 			</li>
-			<!--<li>
-				<a class="btn" href="#" style="border: 1px solid #FFFFFF; padding: 5px 20px; border-radius: 25px; margin-top: 15px; margin-left: 30px; margin-right: 15px;">
-					<small>简体中文</small>
-					<span class="caret"></span>
-				</a>
-			</li>-->
 		</ul>
 	</div>
 </nav>

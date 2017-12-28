@@ -2,955 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47f93f2e-3408-449a-b0a4-68a26d00b762" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN/img/Potential_Project_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/Potential_Project_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/Potential_Project_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/Potential_Project_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/img/Potential_Project_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN/img/Potential_Project_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/Potential_Project_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/Potential_Project_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/Potential_Project_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/img/Potential_Project_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN/img/a-big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/a-big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/a-big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/a-big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/img/a-big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN/img/a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/img/a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN/img/b-big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/b-big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/b-big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/b-big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/img/b-big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN/img/b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/img/b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN/img/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/img/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN/img/c-big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/c-big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/c-big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/c-big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/img/c-big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN/img/c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/img/c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/cctv-01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/cctv-01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/cctv-02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/cctv-02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/cctv-03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/cctv-03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/china.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/china.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/company-logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/company-logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/company-logo.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/company-logo.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN/img/d-big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/d-big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/d-big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/d-big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/img/d-big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN/img/d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/img/d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN/img/defail.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/defail.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/defail.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/defail.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/img/defail.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN/img/e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/img/e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/email.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/email.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/erwema.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/erwema.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN/img/f.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/f.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/f.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/f.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/img/f.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/facebook.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/facebook.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/hot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/hot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_01_bjsz.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_01_bjsz.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_01_shmgxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_01_shmgxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_02_bjhdwgysyxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_02_bjhdwgysyxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_02_bjsygjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_02_bjsygjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_03_bjdwyygjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_03_bjdwyygjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_03_shzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_03_shzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_04_bjjxgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_04_bjjxgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_04_bjsyxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_04_bjsyxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_05_mbzxxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_05_mbzxxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_05_zgrmdxfszx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_05_zgrmdxfszx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_06_bjwfxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_06_bjwfxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_06_shsjwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_06_shsjwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_07_bjhdwgysyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_07_bjhdwgysyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_07_bjsfdxfszx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_07_bjsfdxfszx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_08_szgjjlxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_08_szgjjlxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_08_szzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_08_szzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_09_shphsyxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_09_shphsyxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_09_shsjwgyzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_09_shsjwgyzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_10_cdwgyxt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_10_cdwgyxt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_10_qhdxfszx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_10_qhdxfszx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_11_bjslhjxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_11_bjslhjxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_11_shxhgjxu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_11_shxhgjxu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_12_bjdxfszx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_12_bjdxfszx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_12_bjwfxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_12_bjwfxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_13_njwgyxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_13_njwgyxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_13_wxsdqsyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_13_wxsdqsyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_14_bjxdfwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_14_bjxdfwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_14_szgjjlxy.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_14_szgjjlxy.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_15_bjcpxdfwgyxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_15_bjcpxdfwgyxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_15_nbxsxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_15_nbxsxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_16_bjsfdxd2fszx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_16_bjsfdxd2fszx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_16_sznszjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_16_sznszjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_17_gzxjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_17_gzxjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_17_zzwgyxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_17_zzwgyxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_18_bjsd2zx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_18_bjsd2zx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_18_yjgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_18_yjgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_19_gzhmzjgz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_19_gzhmzjgz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_19_shsdjqgjzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_19_shsdjqgjzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_20_gzmgrgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_20_gzmgrgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_20_szwgyxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_20_szwgyxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_21_njjlzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_21_njjlzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_21_wyzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_21_wyzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_22_bjslhjxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_22_bjslhjxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_22_hnsfdxfszxgjb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_22_hnsfdxfszxgjb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_23_cxsczsy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_23_cxsczsy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_23_njsfdxfszx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_23_njsfdxfszx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_24_bjxdfyzwgyxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_24_bjxdfyzwgyxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_24_shygxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_24_shygxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_25_bjbyzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_25_bjbyzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_25_yjwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_25_yjwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_26_hzwgyxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_26_hzwgyxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_26_skqsigjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_26_skqsigjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_27_sdsfdxfszx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_27_sdsfdxfszx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_27_szsnszywxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_27_szsnszywxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_28_shyzgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_28_shyzgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_28_zjszhzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_28_zjszhzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_29_cqnkzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_29_cqnkzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_29_shfgxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_29_shfgxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_30_czsdyzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_30_czsdyzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_30_szwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_30_szwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_31_jsstyzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_31_jsstyzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_31_stscyxyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_31_stscyxyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_32_scwgydxcdxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_32_scwgydxcdxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_32_xagxdyzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_32_xagxdyzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_33_szdwgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_33_szdwgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_33_xatyzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_33_xatyzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_34_cscjzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_34_cscjzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_34_yzxdfwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_34_yzxdfwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_35_cdsywgyxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_35_cdsywgyxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_35_zzzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_35_zzzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_36_cdsywgyxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_36_cdsywgyxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_36_qfywsyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_36_qfywsyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_37_cdsdzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_37_cdsdzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_37_shsxnwyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_37_shsxnwyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_38_dlfygjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_38_dlfygjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_38_whyzgjxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_38_whyzgjxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_39_bjsqgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_39_bjsqgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_39_wxsdyzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_39_wxsdyzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_40_hzgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_40_hzgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_40_jssszzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_40_jssszzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_41_bjyydxfsdlgjzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_41_bjyydxfsdlgjzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_41_dlfygjxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_41_dlfygjxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_42_cdsd7zx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_42_cdsd7zx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_42_shjczx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_42_shjczx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_43_jnwgyxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_43_jnwgyxx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_43_lkjyxhgjkczx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_43_lkjyxhgjkczx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_44_dbsfdxfszx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_44_dbsfdxfszx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_44_dlmggjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_44_dlmggjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_45_bj21sjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_45_bj21sjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_45_zzsd7zx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_45_zzsd7zx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_46_bjjhsyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_46_bjjhsyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_46_xbsfdxfszx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_46_xbsfdxfszx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_47_cdjxwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_47_cdjxwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_47_hnssyzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_47_hnssyzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_48_bjsblmgxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_48_bjsblmgxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_48_hfsdyzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_48_hfsdyzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_49_fdghcicxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_49_fdghcicxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_49_jsuczgjzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_49_jsuczgjzx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school/img_50_bjbissgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school/img_50_bjbissgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_50_hfsd8zx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_50_hfsd8zx.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school/img_51_shjdfz.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school/img_51_shjdfz.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_Bryn-Mawr-College.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_Bryn-Mawr-College.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_Carnegie-Mellon-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_Carnegie-Mellon-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_Case-Western-Reserve-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_Case-Western-Reserve-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_Claremont-McKenna-College.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_Claremont-McKenna-College.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_Duke-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_Duke-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_Fordham-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_Fordham-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_George-Washington-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_George-Washington-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_Georgetown-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_Georgetown-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_Harvard-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_Harvard-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_Johns-Hopkins-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_Johns-Hopkins-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_Massachusetts-Institute-of-Technology.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_Massachusetts-Institute-of-Technology.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_New-York-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_New-York-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_Northeastern-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_Northeastern-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_Ohio-State-University—​Columbus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_Ohio-State-University—​Columbus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_Pennsylvania-State-University—​University-Park.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_Pennsylvania-State-University—​University-Park.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_Smith-College.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_Smith-College.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_St-Johns-College.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_St-Johns-College.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_St-Lawrence-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_St-Lawrence-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_Stanford-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_Stanford-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_Swarthmore-College.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_Swarthmore-College.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_University-of-California-Berkeley.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_University-of-California-Berkeley.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_University-of-California—​Davis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_University-of-California—​Davis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_University-of-California—​Los-Angeles.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_University-of-California—​Los-Angeles.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_University-of-Pennsylvania.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_University-of-Pennsylvania.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_University-of-Virginia.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_University-of-Virginia.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_Wellesley-College.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_Wellesley-College.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university/img_Yale-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university/img_Yale-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/index-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/index-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/logo-icon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/logo-icon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/logo-icon01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/logo icon/logo-icon01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/logo-icon01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/logo icon/logo-icon01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/logo-icon02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/logo icon/logo-icon02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/logo-icon02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/logo icon/logo-icon02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/logo-icon03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/logo icon/logo-icon03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/logo-icon03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/logo icon/logo-icon03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/logo-icon04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/logo icon/logo-icon04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/logo-icon04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/logo icon/logo-icon04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/logo-icon05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/logo icon/logo-icon05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/logo-icon05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/logo icon/logo-icon05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/logo-icon06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/logo icon/logo-icon06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/logo-icon06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/logo icon/logo-icon06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/logo-icon07.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/logo icon/logo-icon07.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/logo-icon07.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/logo icon/logo-icon07.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/logo-icon08.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/logo icon/logo-icon08.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/logo-icon08.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/logo icon/logo-icon08.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN/img/logo02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/logo02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/logo02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/img/logo02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_01_bjsz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_01_bjsz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_01_shmgxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_01_shmgxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_02_bjsygjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_02_bjsygjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_02_bjsz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_02_bjsz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_03_bjdwyygjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_03_bjdwyygjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_03_shzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_03_shzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_04_bjjxgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_04_bjjxgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_04_bjsyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_04_bjsyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_05_mbzxxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_05_mbzxxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_05_zgrmdxfszx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_05_zgrmdxfszx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_06_bjwfxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_06_bjwfxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_06_shsjwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_06_shsjwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_07_bjhdwgysyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_07_bjhdwgysyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_07_bjsfdxfszx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_07_bjsfdxfszx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_08_szgjjlxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_08_szgjjlxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_08_szzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_08_szzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_09_shphsyxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_09_shphsyxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_09_shsjwgyzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_09_shsjwgyzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_10_cdwgyxt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_10_cdwgyxt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_10_qhdxfszx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_10_qhdxfszx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_11_bjslhjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_11_bjslhjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_11_shxhgjxu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_11_shxhgjxu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_12_bjdxfszx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_12_bjdxfszx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_12_bjwfxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_12_bjwfxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_13_njwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_13_njwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_13_wxsdqsyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_13_wxsdqsyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_14_bjxdfwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_14_bjxdfwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_14_szgjjlxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_14_szgjjlxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_15_bjcpxdfwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_15_bjcpxdfwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_15_nbxsxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_15_nbxsxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_16_bjsfdxd2fszx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_16_bjsfdxd2fszx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_16_sznszjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_16_sznszjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_17_gzxjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_17_gzxjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_17_zzwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_17_zzwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_18_bjsd2zx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_18_bjsd2zx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_18_yjgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_18_yjgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_19_gzhmzjgz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_19_gzhmzjgz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_19_shsdjqgjzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_19_shsdjqgjzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_20_gzmgrgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_20_gzmgrgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_20_szwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_20_szwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_21_njjlzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_21_njjlzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_21_wyzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_21_wyzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_22_bjslhjxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_22_bjslhjxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_22_hnsfdxfszxgjb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_22_hnsfdxfszxgjb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_23_cxsczsy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_23_cxsczsy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_23_njsfdxfszx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_23_njsfdxfszx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_24_bjxdfyzwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_24_bjxdfyzwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_24_shygxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_24_shygxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_25_bjbyzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_25_bjbyzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_25_yjwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_25_yjwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_26_hzwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_26_hzwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_26_skqsigjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_26_skqsigjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_27_sdsfdxfszx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_27_sdsfdxfszx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_27_szsnszywxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_27_szsnszywxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_28_shyzgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_28_shyzgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_28_zjszhzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_28_zjszhzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_29_cqnkzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_29_cqnkzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_29_shfgxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_29_shfgxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_30_czsdyzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_30_czsdyzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_30_szwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_30_szwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_31_jsstyzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_31_jsstyzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_31_stscyxyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_31_stscyxyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_32_scwgydxcdxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_32_scwgydxcdxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_32_xagxdyzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_32_xagxdyzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_33_szdwgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_33_szdwgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_33_xatyzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_33_xatyzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_34_cscjzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_34_cscjzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_34_yzxdfwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_34_yzxdfwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_35_cdsywgyxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_35_cdsywgyxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_35_zzzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_35_zzzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_36_cdsywgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_36_cdsywgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_36_qfywsyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_36_qfywsyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_37_cdsdzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_37_cdsdzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_37_shsxnwyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_37_shsxnwyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_38_dlfygjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_38_dlfygjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_38_whyzgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_38_whyzgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_39_bjsqgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_39_bjsqgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_39_wxsdyzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_39_wxsdyzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_40_hzgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_40_hzgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_40_jssszzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_40_jssszzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_41_bjyydxfsdlgjzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_41_bjyydxfsdlgjzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_41_dlfygjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_41_dlfygjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_42_cdsd7zx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_42_cdsd7zx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_42_shjczx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_42_shjczx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_43_jnwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_43_jnwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_43_lkjyxhgjkczx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_43_lkjyxhgjkczx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_44_dbsfdxfszx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_44_dbsfdxfszx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_44_dlmggjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_44_dlmggjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_45_bj21sjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_45_bj21sjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_45_zzsd7zx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_45_zzsd7zx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_46_bjjhsyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_46_bjjhsyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_46_xbsfdxfszx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_46_xbsfdxfszx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_47_cdjxwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_47_cdjxwgyxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_47_hnssyzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_47_hnssyzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_48_bjsblmgxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_48_bjsblmgxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_48_hfsdyzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_48_hfsdyzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_49_fdghcicxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_49_fdghcicxy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_49_jsuczgjzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_49_jsuczgjzx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/sili_school_logo/logo_50_bjbissgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/sili_school_logo/logo_50_bjbissgjxx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_50_hfsd8zx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_50_hfsd8zx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/school_logo/logo_51_shjdfz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/school_logo/logo_51_shjdfz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_Bryn-Mawr-College.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_Bryn-Mawr-College.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_Carnegie-Mellon-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_Carnegie-Mellon-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_Case-Western-Reserve-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_Case-Western-Reserve-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_Claremont-McKenna-College.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_Claremont-McKenna-College.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_Duke-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_Duke-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_Fordham-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_Fordham-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_George-Washington-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_George-Washington-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_Georgetown-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_Georgetown-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_Harvard-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_Harvard-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_Johns-Hopkins-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_Johns-Hopkins-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_Massachusetts-Institute-of-Technology.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_Massachusetts-Institute-of-Technology.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_New-York-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_New-York-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_Northeastern-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_Northeastern-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_Ohio-State-University—​Columbus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_Ohio-State-University—​Columbus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_Pennsylvania-State-University—​University-Park.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_Pennsylvania-State-University—​University-Park.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_Smith-College.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_Smith-College.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_St-Johns-College.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_St-Johns-College.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_St-Lawrence-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_St-Lawrence-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_Stanford-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_Stanford-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_Swarthmore-College.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_Swarthmore-College.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_University-of-California-Berkeley.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_University-of-California-Berkeley.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_University-of-California—​Davis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_University-of-California—​Davis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_University-of-California—​Los-Angeles.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_University-of-California—​Los-Angeles.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_University-of-Pennsylvania.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_University-of-Pennsylvania.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_University-of-Virginia.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_University-of-Virginia.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_Wellesley-College.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_Wellesley-College.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/university_logo/logo_Yale-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/university_logo/logo_Yale-University.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/macbook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/macbook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/mastercard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/mastercard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/meiguo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/meiguo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/news-img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/news-img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/phone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/phone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/team_photo.87d22b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/team_photo.87d22b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/tongji.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/tongji.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/twitter.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/twitter.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/view.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/view.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/visa.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/visa.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/visa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/visa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/wechat-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/wechat-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/img/wechat-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/img/wechat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/img/wechat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/img/wechat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/js/backtop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/js/backtop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/bangdan_biyexinshui.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/bangdan_boshi.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/bangdan_boshi_dilixue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/bangdan_boshi_ligongke.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/bangdan_boshi_shehuikexue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/bangdan_boshi_shengwuxue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/bangdan_boshi_shuxuediannao.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/bangdan_boshi_wenxue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/bangdan_boshi_xinlixue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/bangdan_boshi_yishu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/bangdan_meiguo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/bootstrap/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/bootstrap/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/bootstrap/config.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/bootstrap/config.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/defail_pay.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/esp_about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/esp_bangdan_biyexinshui.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/esp_bangdan_boshi.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/esp_bangdan_boshi_dilixue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/esp_bangdan_boshi_ligongke.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/esp_bangdan_boshi_shehuikexue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/esp_bangdan_boshi_shengwuxue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/esp_bangdan_boshi_shuxuediannao.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/esp_bangdan_boshi_wenxue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/esp_bangdan_boshi_xinlixue.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/esp_bangdan_boshi_yishu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/esp_bangdan_meiguo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/esp_defail_pay.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/esp_index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/esp_jisuanfangshi_biyexinshui.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/esp_jisuanfangshi_boshi.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/esp_jisuanfangshi_meiguo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/esp_mastercard_pay.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/esp_news_detail.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/esp_news_list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_thinkimpact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/esp_visa_pay.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/jisuanfangshi_biyexinshui.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/jisuanfangshi_boshi.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/jisuanfangshi_meiguo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/js/jquery-2.1.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/js/jquery-2.1.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/mastercard_pay.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/js/modal-middle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/js/modal-middle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/news_detail.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/news_list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/SPANISH_20171228/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN/thinkimpact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/web/EN_20171228/visa_pay.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/cctv-01.jpg" afterPath="$PROJECT_DIR$/frontend/web/EN/img/cctv-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/cctv-01.jpg" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/cctv-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/cctv-01.jpg" afterPath="$PROJECT_DIR$/frontend/web/img/cctv-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/cctv-02.jpg" afterPath="$PROJECT_DIR$/frontend/web/EN/img/cctv-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/cctv-02.jpg" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/cctv-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/cctv-02.jpg" afterPath="$PROJECT_DIR$/frontend/web/img/cctv-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/cctv-03.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/cctv-03.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/cctv-03.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/cctv-03.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/cctv-03.png" afterPath="$PROJECT_DIR$/frontend/web/img/cctv-03.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/china.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/china.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/china.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/china.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/china.png" afterPath="$PROJECT_DIR$/frontend/web/img/china.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/company-logo.jpg" afterPath="$PROJECT_DIR$/frontend/web/EN/img/company-logo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/company-logo.jpg" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/company-logo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/company-logo.jpg" afterPath="$PROJECT_DIR$/frontend/web/img/company-logo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/company-logo.psd" afterPath="$PROJECT_DIR$/frontend/web/EN/img/company-logo.psd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/company-logo.psd" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/company-logo.psd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/company-logo.psd" afterPath="$PROJECT_DIR$/frontend/web/img/company-logo.psd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/email.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/email.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/email.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/email.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/email.png" afterPath="$PROJECT_DIR$/frontend/web/img/email.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/erwema.jpeg" afterPath="$PROJECT_DIR$/frontend/web/EN/img/erwema.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/erwema.jpeg" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/erwema.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/erwema.jpeg" afterPath="$PROJECT_DIR$/frontend/web/img/erwema.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/facebook.jpg" afterPath="$PROJECT_DIR$/frontend/web/EN/img/facebook.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/facebook.jpg" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/facebook.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/facebook.jpg" afterPath="$PROJECT_DIR$/frontend/web/img/facebook.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/frontend/web/EN/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/frontend/web/EN/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/frontend/web/EN/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/frontend/web/EN/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/hot.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/hot.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/hot.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/hot.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/hot.png" afterPath="$PROJECT_DIR$/frontend/web/img/hot.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/index-bg.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/index-bg.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/index-bg.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/index-bg.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/index-bg.png" afterPath="$PROJECT_DIR$/frontend/web/img/index-bg.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/logo-icon.jpg" afterPath="$PROJECT_DIR$/frontend/web/EN/img/logo-icon.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo-icon.jpg" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo-icon.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/logo-icon.jpg" afterPath="$PROJECT_DIR$/frontend/web/img/logo-icon.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/logo-icon01.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/logo-icon01.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/logo icon/logo-icon01.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/logo icon/logo-icon01.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo-icon01.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo-icon01.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo icon/logo-icon01.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo icon/logo-icon01.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/logo-icon01.png" afterPath="$PROJECT_DIR$/frontend/web/img/logo-icon01.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/logo icon/logo-icon01.png" afterPath="$PROJECT_DIR$/frontend/web/img/logo icon/logo-icon01.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/logo-icon02.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/logo-icon02.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/logo icon/logo-icon02.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/logo icon/logo-icon02.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo-icon02.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo-icon02.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo icon/logo-icon02.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo icon/logo-icon02.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/logo-icon02.png" afterPath="$PROJECT_DIR$/frontend/web/img/logo-icon02.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/logo icon/logo-icon02.png" afterPath="$PROJECT_DIR$/frontend/web/img/logo icon/logo-icon02.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/logo-icon03.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/logo-icon03.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/logo icon/logo-icon03.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/logo icon/logo-icon03.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo-icon03.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo-icon03.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo icon/logo-icon03.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo icon/logo-icon03.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/logo-icon03.png" afterPath="$PROJECT_DIR$/frontend/web/img/logo-icon03.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/logo icon/logo-icon03.png" afterPath="$PROJECT_DIR$/frontend/web/img/logo icon/logo-icon03.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/logo-icon04.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/logo-icon04.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/logo icon/logo-icon04.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/logo icon/logo-icon04.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo-icon04.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo-icon04.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo icon/logo-icon04.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo icon/logo-icon04.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/logo-icon04.png" afterPath="$PROJECT_DIR$/frontend/web/img/logo-icon04.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/logo icon/logo-icon04.png" afterPath="$PROJECT_DIR$/frontend/web/img/logo icon/logo-icon04.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/logo-icon05.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/logo-icon05.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/logo icon/logo-icon05.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/logo icon/logo-icon05.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo-icon05.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo-icon05.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo icon/logo-icon05.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo icon/logo-icon05.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/logo-icon05.png" afterPath="$PROJECT_DIR$/frontend/web/img/logo-icon05.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/logo icon/logo-icon05.png" afterPath="$PROJECT_DIR$/frontend/web/img/logo icon/logo-icon05.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/logo-icon06.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/logo-icon06.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/logo icon/logo-icon06.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/logo icon/logo-icon06.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo-icon06.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo-icon06.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo icon/logo-icon06.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo icon/logo-icon06.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/logo-icon06.png" afterPath="$PROJECT_DIR$/frontend/web/img/logo-icon06.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/logo icon/logo-icon06.png" afterPath="$PROJECT_DIR$/frontend/web/img/logo icon/logo-icon06.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/logo-icon07.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/logo-icon07.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/logo icon/logo-icon07.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/logo icon/logo-icon07.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo-icon07.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo-icon07.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo icon/logo-icon07.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo icon/logo-icon07.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/logo-icon07.png" afterPath="$PROJECT_DIR$/frontend/web/img/logo-icon07.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/logo icon/logo-icon07.png" afterPath="$PROJECT_DIR$/frontend/web/img/logo icon/logo-icon07.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/logo-icon08.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/logo-icon08.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/logo icon/logo-icon08.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/logo icon/logo-icon08.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo-icon08.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo-icon08.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo icon/logo-icon08.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo icon/logo-icon08.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/logo-icon08.png" afterPath="$PROJECT_DIR$/frontend/web/img/logo-icon08.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/logo icon/logo-icon08.png" afterPath="$PROJECT_DIR$/frontend/web/img/logo icon/logo-icon08.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/logo.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/logo.png" afterPath="$PROJECT_DIR$/frontend/web/img/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/mastercard.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/mastercard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/mastercard.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/mastercard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/mastercard.png" afterPath="$PROJECT_DIR$/frontend/web/img/mastercard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/meiguo.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/meiguo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/meiguo.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/meiguo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/meiguo.png" afterPath="$PROJECT_DIR$/frontend/web/img/meiguo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/news-img.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/news-img.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/news-img.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/news-img.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/news-img.png" afterPath="$PROJECT_DIR$/frontend/web/img/news-img.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/phone.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/phone.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/phone.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/phone.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/phone.png" afterPath="$PROJECT_DIR$/frontend/web/img/phone.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/team_photo.87d22b.jpg" afterPath="$PROJECT_DIR$/frontend/web/EN/img/team_photo.87d22b.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/team_photo.87d22b.jpg" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/team_photo.87d22b.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/team_photo.87d22b.jpg" afterPath="$PROJECT_DIR$/frontend/web/img/team_photo.87d22b.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/tongji.jpg" afterPath="$PROJECT_DIR$/frontend/web/EN/img/tongji.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/tongji.jpg" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/tongji.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/tongji.jpg" afterPath="$PROJECT_DIR$/frontend/web/img/tongji.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/twitter.jpg" afterPath="$PROJECT_DIR$/frontend/web/EN/img/twitter.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/twitter.jpg" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/twitter.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/twitter.jpg" afterPath="$PROJECT_DIR$/frontend/web/img/twitter.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/view.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/view.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/view.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/view.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/view.png" afterPath="$PROJECT_DIR$/frontend/web/img/view.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/visa.jpg" afterPath="$PROJECT_DIR$/frontend/web/EN/img/visa.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/visa.jpg" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/visa.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/visa.jpg" afterPath="$PROJECT_DIR$/frontend/web/img/visa.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/visa.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/visa.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/visa.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/visa.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/img/visa.png" afterPath="$PROJECT_DIR$/frontend/web/img/visa.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/wechat-icon.png" afterPath="$PROJECT_DIR$/frontend/web/EN/img/wechat-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/wechat-icon.png" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/wechat-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/img/wechat.jpg" afterPath="$PROJECT_DIR$/frontend/web/EN/img/wechat.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/img/wechat.jpg" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/img/wechat.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/about.html" afterPath="$PROJECT_DIR$/frontend/web/EN/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/js/backtop.js" afterPath="$PROJECT_DIR$/frontend/web/EN/js/backtop.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/js/backtop.js" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/js/backtop.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bangdan_biyexinshui.html" afterPath="$PROJECT_DIR$/frontend/web/EN/bangdan_biyexinshui.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi.html" afterPath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_dilixue.html" afterPath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_dilixue.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_ligongke.html" afterPath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_ligongke.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_shehuikexue.html" afterPath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_shehuikexue.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_shengwuxue.html" afterPath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_shengwuxue.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_shuxuediannao.html" afterPath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_shuxuediannao.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_wenxue.html" afterPath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_wenxue.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_xinlixue.html" afterPath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_xinlixue.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_yishu.html" afterPath="$PROJECT_DIR$/frontend/web/EN/bangdan_boshi_yishu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bangdan_meiguo.html" afterPath="$PROJECT_DIR$/frontend/web/EN/bangdan_meiguo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bootstrap/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/frontend/web/EN/bootstrap/css/bootstrap-theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/bootstrap/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/bootstrap/css/bootstrap-theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bootstrap/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/frontend/web/EN/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/bootstrap/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/frontend/web/EN/bootstrap/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/bootstrap/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/frontend/web/EN/bootstrap/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/bootstrap/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/frontend/web/EN/bootstrap/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/bootstrap/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/frontend/web/EN/bootstrap/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/bootstrap/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bootstrap/config.json" afterPath="$PROJECT_DIR$/frontend/web/EN/bootstrap/config.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/bootstrap/config.json" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/bootstrap/config.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/defail_pay.html" afterPath="$PROJECT_DIR$/frontend/web/EN/defail_pay.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_about.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_biyexinshui.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_biyexinshui.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_dilixue.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_dilixue.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_ligongke.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_ligongke.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_shehuikexue.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_shehuikexue.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_shengwuxue.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_shengwuxue.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_shuxuediannao.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_shuxuediannao.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_wenxue.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_wenxue.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_xinlixue.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_xinlixue.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_yishu.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_boshi_yishu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_meiguo.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_bangdan_meiguo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_defail_pay.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_defail_pay.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_index.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_jisuanfangshi_biyexinshui.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_jisuanfangshi_biyexinshui.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_jisuanfangshi_boshi.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_jisuanfangshi_boshi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_jisuanfangshi_meiguo.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_jisuanfangshi_meiguo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_mastercard_pay.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_mastercard_pay.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_news_detail.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_news_detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_news_list.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_news_list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/esp_visa_pay.html" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/esp_visa_pay.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/frontend/web/EN/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/index.html" afterPath="$PROJECT_DIR$/frontend/web/EN/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/site/index_1.php" afterPath="$PROJECT_DIR$/frontend/views/site/index_1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/articles/index_1.php" afterPath="$PROJECT_DIR$/frontend/views/articles/index_1.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/articles/index_2.php" afterPath="$PROJECT_DIR$/frontend/views/articles/index_2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/site/index_2.php" afterPath="$PROJECT_DIR$/frontend/views/site/index_2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/jisuanfangshi_biyexinshui.html" afterPath="$PROJECT_DIR$/frontend/web/EN/jisuanfangshi_biyexinshui.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/jisuanfangshi_boshi.html" afterPath="$PROJECT_DIR$/frontend/web/EN/jisuanfangshi_boshi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/jisuanfangshi_meiguo.html" afterPath="$PROJECT_DIR$/frontend/web/EN/jisuanfangshi_meiguo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/js/jquery-2.1.3.min.js" afterPath="$PROJECT_DIR$/frontend/web/EN/js/jquery-2.1.3.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/js/jquery-2.1.3.min.js" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/js/jquery-2.1.3.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/mastercard_pay.html" afterPath="$PROJECT_DIR$/frontend/web/EN/mastercard_pay.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/js/modal-middle.js" afterPath="$PROJECT_DIR$/frontend/web/EN/js/modal-middle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/js/modal-middle.js" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/js/modal-middle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/news_detail.html" afterPath="$PROJECT_DIR$/frontend/web/EN/news_detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/news_list.html" afterPath="$PROJECT_DIR$/frontend/web/EN/news_list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/css/style.css" afterPath="$PROJECT_DIR$/frontend/web/EN/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/SPANISH/css/style.css" afterPath="$PROJECT_DIR$/frontend/web/SPANISH/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/css/style.css" afterPath="$PROJECT_DIR$/frontend/web/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/web/EN/visa_pay.html" afterPath="$PROJECT_DIR$/frontend/web/EN/visa_pay.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/articles/view_1.php" afterPath="$PROJECT_DIR$/frontend/views/articles/view_1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/views/articles/view_2.php" afterPath="$PROJECT_DIR$/frontend/views/articles/view_2.php" />
     </list>
     <ignored path="collegenode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -978,8 +33,8 @@
       <file leaf-file-name="index_1.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend/views/site/index_1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="22.0" vertical-offset="933" max-vertical-offset="2760">
-              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="66" selection-end-column="6" />
+            <state vertical-scroll-proportion="-16.125" vertical-offset="603" max-vertical-offset="2760">
+              <caret line="66" column="6" selection-start-line="27" selection-start-column="0" selection-end-line="66" selection-end-column="6" />
               <folding>
                 <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -988,14 +43,63 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index_2.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index_1.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/views/articles/index_1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-23.0" vertical-offset="468" max-vertical-offset="2820">
+              <caret line="73" column="6" selection-start-line="73" selection-start-column="6" selection-end-line="73" selection-end-column="6" />
+              <folding>
+                <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view_1.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/views/articles/view_1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-23.0" vertical-offset="483" max-vertical-offset="2100">
+              <caret line="69" column="6" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
+              <folding>
+                <element signature="e#6#91#0#PHP" expanded="true" />
+                <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index_2.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend/views/site/index_2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6756757" vertical-offset="900" max-vertical-offset="2790">
-              <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+            <state vertical-scroll-proportion="-14.25" vertical-offset="648" max-vertical-offset="2790">
+              <caret line="66" column="6" selection-start-line="27" selection-start-column="0" selection-end-line="66" selection-end-column="6" />
               <folding>
                 <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index_2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/views/articles/index_2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-23.0" vertical-offset="453" max-vertical-offset="2760">
+              <caret line="72" column="6" selection-start-line="72" selection-start-column="6" selection-end-line="72" selection-end-column="6" />
+              <folding>
+                <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view_2.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/frontend/views/articles/view_2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9484536" vertical-offset="438" max-vertical-offset="2055">
+              <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
+              <folding>
+                <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1027,16 +131,16 @@
         <option value="$PROJECT_DIR$/common/models/Articles.php" />
         <option value="$PROJECT_DIR$/backend/controllers/ArticlesController.php" />
         <option value="$PROJECT_DIR$/frontend/web/SPANISH/esp_index.html" />
-        <option value="$PROJECT_DIR$/frontend/views/articles/view_1.php" />
-        <option value="$PROJECT_DIR$/frontend/views/articles/view_2.php" />
         <option value="$PROJECT_DIR$/backend/views/articles/add.php" />
         <option value="$PROJECT_DIR$/backend/views/articles/update.php" />
-        <option value="$PROJECT_DIR$/frontend/views/articles/index_1.php" />
-        <option value="$PROJECT_DIR$/frontend/views/articles/index_2.php" />
         <option value="$PROJECT_DIR$/frontend/web/SPANISH/esp_about.html" />
         <option value="$PROJECT_DIR$/frontend/web/EN/about.html" />
         <option value="$PROJECT_DIR$/frontend/views/site/index_1.php" />
         <option value="$PROJECT_DIR$/frontend/views/site/index_2.php" />
+        <option value="$PROJECT_DIR$/frontend/views/articles/index_1.php" />
+        <option value="$PROJECT_DIR$/frontend/views/articles/view_1.php" />
+        <option value="$PROJECT_DIR$/frontend/views/articles/index_2.php" />
+        <option value="$PROJECT_DIR$/frontend/views/articles/view_2.php" />
       </list>
     </option>
   </component>
@@ -1163,6 +267,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collegenode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collegenode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="articles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -1282,6 +408,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1280" max-vertical-offset="2295">
           <caret line="113" column="45" selection-start-line="113" selection-start-column="45" selection-end-line="113" selection-end-column="45" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="true" />
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1465,20 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/views/articles/view_1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.1724138" vertical-offset="435" max-vertical-offset="2250">
-          <caret line="113" column="22" selection-start-line="107" selection-start-column="16" selection-end-line="113" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/views/articles/view_2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.0431035" vertical-offset="540" max-vertical-offset="2280">
-          <caret line="115" column="22" selection-start-line="115" selection-start-column="22" selection-end-line="115" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/controllers/ArticlesController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6913793" vertical-offset="559" max-vertical-offset="1185">
@@ -1490,22 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.60172415" vertical-offset="911" max-vertical-offset="3480">
           <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/views/articles/index_1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-40.0" vertical-offset="435" max-vertical-offset="2835">
-          <caret line="98" column="233" selection-start-line="98" selection-start-column="233" selection-end-line="98" selection-end-column="233" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/views/articles/index_2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4072165" vertical-offset="1908" max-vertical-offset="2910">
-          <caret line="148" column="89" selection-start-line="148" selection-start-column="89" selection-end-line="148" selection-end-column="89" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1607,8 +707,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend/views/site/index_1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="22.0" vertical-offset="933" max-vertical-offset="2760">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="66" selection-end-column="6" />
+        <state vertical-scroll-proportion="-16.125" vertical-offset="603" max-vertical-offset="2760">
+          <caret line="66" column="6" selection-start-line="27" selection-start-column="0" selection-end-line="66" selection-end-column="6" />
           <folding>
             <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1616,13 +716,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/views/articles/index_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.0" vertical-offset="468" max-vertical-offset="2820">
+          <caret line="73" column="6" selection-start-line="73" selection-start-column="6" selection-end-line="73" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/views/articles/view_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.0" vertical-offset="483" max-vertical-offset="2100">
+          <caret line="69" column="6" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="true" />
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/views/site/index_2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6756757" vertical-offset="900" max-vertical-offset="2790">
-          <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+        <state vertical-scroll-proportion="-14.25" vertical-offset="648" max-vertical-offset="2790">
+          <caret line="66" column="6" selection-start-line="27" selection-start-column="0" selection-end-line="66" selection-end-column="6" />
           <folding>
             <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/views/articles/index_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.0" vertical-offset="453" max-vertical-offset="2760">
+          <caret line="72" column="6" selection-start-line="72" selection-start-column="6" selection-end-line="72" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/views/articles/view_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9484536" vertical-offset="438" max-vertical-offset="2055">
+          <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#small#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
