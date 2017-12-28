@@ -13,7 +13,7 @@ use common\models\Articles;
 
 class ArticlesController extends Controller
 {
-	private $path = "/Applications/MAMP/htdocs/collegenode/backend/web";
+	private $path = "/var/www/collegenode_20171210/backend/web";
 	//添加文章
 	public function actionAdd()
 	{
