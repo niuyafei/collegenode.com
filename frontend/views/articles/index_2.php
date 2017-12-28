@@ -44,7 +44,7 @@ use yii\widgets\LinkPager;
 	<div class="collapse navbar-collapse navbar-collegenode-collapse">
 		<ul class="nav navbar-nav navbar-right">
 			<li>
-				<a href="/site/index?language=SPANISH" class="nav-menu"><small>Home</small></a>
+				<a href="/site/index?language=SPANISH" class="nav-menu"><small>Inicio</small></a>
 			</li>
 			<li>
 				<a href="/SPANISH/esp_bangdan_meiguo.html" class="nav-menu"><small>CollegeNode Rankings</small></a>
@@ -65,9 +65,18 @@ use yii\widgets\LinkPager;
 					</li>
 				</ul>
 			</li>
+			<!--<li>
+				<a href="mingxiao-dongtai.html" class="nav-menu"><small>名校动态</small></a>
+			</li>-->
 			<li>
-				<a href="/SPANISH/esp_about.html" class="nav-menu"><small>About us</small></a>
+				<a href="/SPANISH/esp_about.html" class="nav-menu"><small>Quiénes somos</small></a>
 			</li>
+			<!--<li>
+				<a class="btn" href="#" style="border: 1px solid #FFFFFF; padding: 5px 20px; border-radius: 25px; margin-top: 15px; margin-left: 30px; margin-right: 15px;">
+					<small>简体中文</small>
+					<span class="caret"></span>
+				</a>
+			</li>-->
 		</ul>
 	</div>
 </nav>
