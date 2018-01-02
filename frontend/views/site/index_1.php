@@ -171,5 +171,17 @@
 
 </style>
 </body>
+<script>
+    $(".dropdown").mouseover(function(){
+        var obj = $(".dropdown-menu");
+        if(obj.css("display") == "none"){
+            obj.fadeIn(1000);
+        }
+    });
+
+    $(".dropdown").mouseleave(function(){
+        $(".dropdown-menu").css("display", "none");
+    });
+</script>
 
 </html>
