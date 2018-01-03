@@ -146,7 +146,9 @@
 	$(".dropdown").mouseover(function(){
 		var obj = $(".dropdown-menu");
 		if(obj.css("display") == "none"){
-			obj.fadeIn(1000);
+			setTimeout(function(){
+				obj.fadeIn(1000);
+			}, 500)
 		}
 	});
 
