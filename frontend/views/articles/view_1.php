@@ -80,11 +80,11 @@
 		<div class="col-sm-12" style="border: 1px solid #EEEEEE; padding: 15px;">
 			<h3 class="text-center"><?= $data['article'] ?></h3>
 			<div class="text-center">
-				<small class="color-gray">阅读：<?= $data['num']; ?></small>
+				<small class="color-gray">Views：<?= $data['num']; ?></small>
 			</div>
 			<div class="text-center m-t-10">
 				<div class="bdsharebuttonbox">
-					<small class="color-gray">分享到：</small>
+					<small class="color-gray">Share to：</small>
 					<a href="#" class="bds_fbook" data-cmd="fbook" title="share to facebook" style="float: none; background-image: url(/img/facebook.jpg); background-position: 0; background-size: 20px;"></a>
 					<a href="#" class="bds_twi" data-cmd="twi" title="share to twitter" style="float: none; background-image: url(/img/twitter.jpg); background-position: 0; background-size: 20px;"></a>
 				</div>
