@@ -76,6 +76,7 @@ use yii\widgets\LinkPager;
 	<div class="container">
 		<div class="text-center">
 			<h1 style="font-size: 38px;">Articles & Videos</h1>
+			<div class="m-t-20"><span>$29.99 per month to view all articles and videos</span></div>
 			<a class="btn btn-default btn-lg m-t-20" data-toggle="modal" data-target="#pay-modal">View more articles and videos</a>
 		</div>
 	</div>

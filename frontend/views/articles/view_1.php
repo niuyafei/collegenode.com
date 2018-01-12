@@ -79,9 +79,9 @@
 	<div class="row index-news-row">
 		<div class="col-sm-12" style="border: 1px solid #EEEEEE; padding: 15px;">
 			<h3 class="text-center"><?= $data['article'] ?></h3>
-			<div class="text-center">
-				<small class="color-gray">Views：<?= $data['num']; ?></small>
-			</div>
+			<!-- <div class="text-center">
+				<small class="color-gray">Views：<?//= $data['num']; ?></small>
+			</div> -->
 			<div class="text-center m-t-10">
 				<div class="bdsharebuttonbox">
 					<small class="color-gray">Share to：</small>

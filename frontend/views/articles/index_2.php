@@ -84,6 +84,7 @@ use yii\widgets\LinkPager;
 	<div class="container">
 		<div class="text-center">
 			<h1 style="font-size: 38px;">Artículos & Videos</h1>
+			<div class="m-t-20"><span>$29.99 por mes para ver todos los artículos y videos</span></div>
 			<a href="#" class="btn btn-default btn-lg m-t-20" data-toggle="modal" data-target="#esp-pay-modal">Ver más artículos y videos</a>
 		</div>
 	</div>
